@@ -1,0 +1,20 @@
+[
+  {"ean":"3278942550142","name":"MALO YRT FRTS FRSE FRMB5125GX4","page":15,"shelf":1,"position":36},
+  {"ean":"3278942111169","name":"MALO YT VANIL PT CARTON 4X125G","page":15,"shelf":1,"position":37},
+  {"ean":"3278942111145","name":"MALO YT NATUR PT CARTON 4X125G","page":15,"shelf":1,"position":38},
+  {"ean":"3033490004583","name":"DANONE VELOUTE NATURE 4X125G","page":15,"shelf":1,"position":39},
+  {"ean":"3033490015903","name":"JOCKEY STRACCIATELLA 4X120G","page":15,"shelf":1,"position":40},
+  {"ean":"3274231751013","name":"LAFERM MOUS YT LIT FRMB 2X90G","page":15,"shelf":1,"position":41},
+  {"ean":"3524770045315","name":"PERLE LAIT SLIT CARAM 4X125G","page":15,"shelf":1,"position":42},
+  {"ean":"3256391916395","name":"PAT YRT NAT 12X125G","page":15,"shelf":2,"position":30},
+  {"ean":"3256398012288","name":"PAT ONCTUEUX NATURE 4X125G","page":15,"shelf":2,"position":31},
+  {"ean":"3033490004521","name":"DANONE YAOURT NATURE 4X125G","page":15,"shelf":2,"position":32},
+  {"ean":"3256398117426","name":"PAT YRT & CREME STRACCI 4X125G","page":15,"shelf":2,"position":33},
+  {"ean":"3256397985721","name":"PAT LISSEA MOUS FR/FRAIS 4X100G","page":15,"shelf":2,"position":34},
+  {"ean":"3129770045727","name":"YOPL POL FTS JNES 4X125G","page":15,"shelf":2,"position":35},
+  {"ean":"3033491497487","name":"ME/PAT YRT ONCT VANILLE 8X125G","page":15,"shelf":3,"position":25},
+  {"ean":"3033490004514","name":"DANONE YAOURT NATURE 8X125G","page":15,"shelf":3,"position":26},
+  {"ean":"3256398182226","name":"PAT VITA PAUSE STRACCIA 2X150G","page":15,"shelf":3,"position":27},
+  {"ean":"3256397995942","name":"PAT LISSEA MOUSSE NAT 8X100G","page":15,"shelf":3,"position":28},
+  {"ean":"3524770040133","name":"ME/YOPL PERLE LAIT CIT 4X125G","page":15,"shelf":3,"position":29}
+]

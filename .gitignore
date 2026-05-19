@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+extract-log*.txt
+.env
+.env.*
+*.traineddata
+.DS_Store
+Thumbs.db
