@@ -1,22 +1,142 @@
 [
-  {"ean":"3280249500303","name":"P.BASQ YT BREBIS NAT.0% 2X125G","page":9,"shelf":1,"position":46},
-  {"ean":"3280249500402","name":"P.BASQ SKYR BREBIS 2X120G","page":9,"shelf":1,"position":47},
-  {"ean":"3523230039600","name":"SOIGNON YT BR.BREB ABR.4X110G","page":9,"shelf":1,"position":48},
-  {"ean":"3523230039709","name":"SOIGN.YT CHEV.BR.MUR/FRB 4X125G","page":9,"shelf":1,"position":49},
-  {"ean":"3523230034142","name":"SOIGNON YT LT CHEV.PL.NAT.4X110G","page":9,"shelf":1,"position":50},
-  {"ean":"3250392398802","name":"PAT VEG COCO MOUSS CHOCO4X55G","page":9,"shelf":1,"position":51},
-  {"ean":"3250392398772","name":"PAT VEG COCO LIEG CHOCO4X95G","page":9,"shelf":1,"position":52},
-  {"ean":"3250392398710","name":"PAT VEG COCO LIEGEOI CAFE4X95G","page":9,"shelf":1,"position":53},
-  {"ean":"3250391933712","name":"PAT VEG SOJA VANILLE 4X100G","page":9,"shelf":1,"position":54},
-  {"ean":"3280240009002","name":"P.BASQ CAILLE BREBIS VAN2X125G","page":9,"shelf":2,"position":39},
-  {"ean":"3280240008005","name":"P.BASQ CAILLE BREBIS NAT2X125G","page":9,"shelf":2,"position":40},
-  {"ean":"3523230039952","name":"SOIGNON YT BREBIS NAT.4X110G","page":9,"shelf":2,"position":41},
-  {"ean":"3523230026488","name":"SOIGN.YT CHEVRE NAT. 0% 4X125G","page":9,"shelf":2,"position":42},
-  {"ean":"3588580942762","name":"AND.MOUSSE VEGETAL CHOCO 4X55G","page":9,"shelf":2,"position":43},
-  {"ean":"3588580948252","name":"AND. RIZ AU LAIT COCO 4X100G","page":9,"shelf":2,"position":44},
-  {"ean":"3250392153616","name":"PAT VEG SOJA CHOC NOIS.4X100G","page":9,"shelf":2,"position":45},
-  {"ean":"3280241101557","name":"PB DOUC.BREBIS VANILLE 4X100G","page":9,"shelf":3,"position":33},
-  {"ean":"3250391758142","name":"PAT YRT BREBIS S/CHAT 2X125G","page":9,"shelf":3,"position":34},
-  {"ean":"3523230014287","name":"SOIGN.YT NAT. LT CHEVRE 4X125G","page":9,"shelf":3,"position":35},
-  {"ean":"3588580086079","name":"ANDROS DELICE VEG CHOCO 4X100G","page":9,"shelf":3,"position":36}
+  {
+    "ean": "3280249800303",
+    "name": "P.BASQ.YT BREBIS NAT.0% 2X125G",
+    "page": 9,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3280249800600",
+    "name": "P.BASQ SKYR BREBIS 2X120G",
+    "page": 9,
+    "shelf": 1,
+    "position": 47
+  },
+  {
+    "ean": "3523230039604",
+    "name": "SOIGNON YT BR.BREB.ABR.4X110G",
+    "page": 9,
+    "shelf": 1,
+    "position": 48
+  },
+  {
+    "ean": "3523230032971",
+    "name": "SOIG.YT CHEV.BR.MUR/FRB 4X125G",
+    "page": 9,
+    "shelf": 1,
+    "position": 49
+  },
+  {
+    "ean": "3523230034142",
+    "name": "SOIGNON YT LT CHEVR.NAT.4X110G",
+    "page": 9,
+    "shelf": 1,
+    "position": 50
+  },
+  {
+    "ean": "3250393395802",
+    "name": "PAT VEG COCO MOUSS CHOCO4X55G",
+    "page": 9,
+    "shelf": 1,
+    "position": 51
+  },
+  {
+    "ean": "3250393395772",
+    "name": "PAT VEG COCO LIEG CHOC4X95G",
+    "page": 9,
+    "shelf": 1,
+    "position": 52
+  },
+  {
+    "ean": "3250393395741",
+    "name": "PAT VEG COCO LIEGEOI CAFE4X95G",
+    "page": 9,
+    "shelf": 1,
+    "position": 53
+  },
+  {
+    "ean": "3250391595712",
+    "name": "PAT VEG SOJA VANILLE 4X100G",
+    "page": 9,
+    "shelf": 1,
+    "position": 54
+  },
+  {
+    "ean": "3280240009002",
+    "name": "P.BASQ CAILLE BREBIS VAN2X125G",
+    "page": 9,
+    "shelf": 2,
+    "position": 39
+  },
+  {
+    "ean": "3280240000030",
+    "name": "P.BASQ CAILLE BREBIS NAT2X125G",
+    "page": 9,
+    "shelf": 2,
+    "position": 40
+  },
+  {
+    "ean": "3523230039567",
+    "name": "SOIGNON YT BREBIS NATUR.4X110G",
+    "page": 9,
+    "shelf": 2,
+    "position": 41
+  },
+  {
+    "ean": "3523230026680",
+    "name": "SOIGN.YT CHEVRE NAT. 0% 4X125G",
+    "page": 9,
+    "shelf": 2,
+    "position": 42
+  },
+  {
+    "ean": "3608580942764",
+    "name": "AND.MOUSSE VEGETAL CHOCO 4X55G",
+    "page": 9,
+    "shelf": 2,
+    "position": 43
+  },
+  {
+    "ean": "3608580968252",
+    "name": "AND. RIZ AU LAIT COCO 4X100G",
+    "page": 9,
+    "shelf": 2,
+    "position": 44
+  },
+  {
+    "ean": "3250392553616",
+    "name": "PAT VEG SOJA CHOC NOIS.4X100G",
+    "page": 9,
+    "shelf": 2,
+    "position": 45
+  },
+  {
+    "ean": "3280241101507",
+    "name": "PB DOUC.BREBIS VANILLE 4X100G",
+    "page": 9,
+    "shelf": 3,
+    "position": 33
+  },
+  {
+    "ean": "3250391758142",
+    "name": "PAT YRT BREBIS S/CHAT 2X125G",
+    "page": 9,
+    "shelf": 3,
+    "position": 34
+  },
+  {
+    "ean": "3523230014267",
+    "name": "SOIGN.YT NAT. LT CHEVRE 4X125G",
+    "page": 9,
+    "shelf": 3,
+    "position": 35
+  },
+  {
+    "ean": "3608580086079",
+    "name": "ANDROS DELICE VEG CHOCO 4X100G",
+    "page": 9,
+    "shelf": 3,
+    "position": 36
+  }
 ]

@@ -1,13 +1,79 @@
 [
-  {"ean":"3329770077803","name":"YOPLAIT SKYR NATURE 0% 850G","page":23,"shelf":6,"position":10},
-  {"ean":"3033491454080","name":"DANONE SKYR NATURE 480G","page":23,"shelf":6,"position":11},
-  {"ean":"3250642712525","name":"PAT YAOURT SKYR NATURES 450G","page":23,"shelf":6,"position":12},
-  {"ean":"3250642712556","name":"ME.PAT.YRT SKYR MYRTILLE 450G","page":23,"shelf":6,"position":13},
-  {"ean":"3329770068146","name":"YOPL.CALIN F.BL.NAT 3.2%MG 1KG","page":23,"shelf":6,"position":14},
-  {"ean":"3329770076455","name":"YOPL. CALIN EXTRA NAT.0% 8X100G","page":23,"shelf":7,"position":1},
-  {"ean":"3329770057232","name":"YOPL.CALIN+FGE BLC 0%MG 850G","page":23,"shelf":7,"position":2},
-  {"ean":"3250642016098","name":"PAT FGE BLC 0% 1KG","page":23,"shelf":7,"position":3},
-  {"ean":"3250642016371","name":"S/PRINT FGE BLC FRAISE 0% 1KG","page":23,"shelf":7,"position":4},
-  {"ean":"3033490166403","name":"DANONE DU MDE SKYR NAT.825G","page":23,"shelf":7,"position":5},
-  {"ean":"3250642442354","name":"PAT SKYR NATURE 850G","page":23,"shelf":7,"position":6}
+  {
+    "ean": "3329770077003",
+    "name": "YOPLAIT SKYR NATURE 0% 850G",
+    "page": 23,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3033491454080",
+    "name": "DANONE SKYR NATURE 480G",
+    "page": 23,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3250392712525",
+    "name": "PAT YAOURT SKYR NATURES 450G",
+    "page": 23,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250392712556",
+    "name": "ME/PAT.YRT SKYR MYRTILLE 450G",
+    "page": 23,
+    "shelf": 6,
+    "position": 13
+  },
+  {
+    "ean": "3329770060142",
+    "name": "YOPL.CALIN F.BL.NAT.3.2%MG 1KG",
+    "page": 23,
+    "shelf": 6,
+    "position": 14
+  },
+  {
+    "ean": "3329770076457",
+    "name": "YOPL. CALIN EXTRA NAT.0%8X100G",
+    "page": 23,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3329770057234",
+    "name": "YOPL.CALIN+FGE BLC 0%MG 850G",
+    "page": 23,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250390010098",
+    "name": "PAT FGE BLC 0% 1KG",
+    "page": 23,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250390010371",
+    "name": "S/PRINT FGE BLC FRAISE 0% 1KG",
+    "page": 23,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3033492056603",
+    "name": "DANONE DU MDE SKYR NAT.825G",
+    "page": 23,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3250393447358",
+    "name": "PAT SKYR NATURE 850G",
+    "page": 23,
+    "shelf": 7,
+    "position": 6
+  }
 ]

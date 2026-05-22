@@ -1,62 +1,398 @@
 [
   {
-    "ean": "3250391784517",
+    "ean": "3608580006633",
+    "name": "ANDROS DES.FR POM/CHATA.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3250391979882",
+    "name": "PAQUIT.SPEC.FRT POM/CHAA4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 47
+  },
+  {
+    "ean": "3021760980101",
+    "name": "MATERNE COMP.5 FRT ROU.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 48
+  },
+  {
+    "ean": "3021760980118",
+    "name": "MATERNE COMP.5 FRT JAU.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 49
+  },
+  {
+    "ean": "3297760092148",
+    "name": "C&A COMP MCX P/VAN 4X97G",
+    "page": 2,
+    "shelf": 1,
+    "position": 50
+  },
+  {
+    "ean": "3297760092179",
+    "name": "C&A COMP MCX P/CHATAIGN 4X97G",
+    "page": 2,
+    "shelf": 1,
+    "position": 51
+  },
+  {
+    "ean": "3250390320746",
+    "name": "PN/PAQUITO SSA POM/BAN 4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 52
+  },
+  {
+    "ean": "3250392480950",
+    "name": "PAQUITO SSA POM/ABR 4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 53
+  },
+  {
+    "ean": "3608580006640",
+    "name": "ANDROS DES.FRT POM/ABRI.4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 38
+  },
+  {
+    "ean": "3250391994014",
+    "name": "PAQUITO SPEC.FRT POM/ABR4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 39
+  },
+  {
+    "ean": "3608580879152",
+    "name": "ANDROS ONCTUEUX ABRICOT 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 40
+  },
+  {
+    "ean": "3608580161844",
+    "name": "ANDROS PECHE MRCX SSA 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 41
+  },
+  {
+    "ean": "3608580161905",
+    "name": "ANDROS POIRE MRCX SSA 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 42
+  },
+  {
+    "ean": "3297760097327",
+    "name": "C&A SSA POMME PASSION 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 43
+  },
+  {
+    "ean": "3297760097143",
+    "name": "C&A SSA P/MANGUES 4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 44
+  },
+  {
+    "ean": "3250391996063",
+    "name": "PAQUITO SSA POM/POIR 4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 45
+  },
+  {
+    "ean": "3608580006657",
+    "name": "ANDROS DESS.FR.POM/POIR.4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3250390402688",
+    "name": "PAQUITO DESS POM/POIRE 4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 31
+  },
+  {
+    "ean": "3608580796350",
+    "name": "ANDROS DELICE D'ABRICOT 4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 32
+  },
+  {
+    "ean": "3608580707097",
+    "name": "ANDROS MORCEAUX RHUBARBE 4X100",
+    "page": 2,
+    "shelf": 3,
+    "position": 33
+  },
+  {
+    "ean": "3297760097020",
+    "name": "C&A SSA P/PECHES 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 34
+  },
+  {
+    "ean": "3297760097969",
+    "name": "C&A SSA P/BANANE VANILLE 4X97G",
+    "page": 3,
+    "shelf": 3,
+    "position": 35
+  },
+  {
+    "ean": "3297760097068",
+    "name": "C&A SSA P/POIRES 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 36
+  },
+  {
+    "ean": "3250392130282",
+    "name": "PAQUITO SSA POMNAT 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 37
+  },
+  {
+    "ean": "3045320017205",
+    "name": "ANDROS POM/PRUNEAUX 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 23
+  },
+  {
+    "ean": "3250391460557",
+    "name": "PAQUITO DES POM/FRA/MYR 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 24
+  },
+  {
+    "ean": "3608580796312",
+    "name": "ANDROS DELICE DE PECH 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 25
+  },
+  {
+    "ean": "3608580796374",
+    "name": "ANDROS MORCEAUX POIRE 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 26
+  },
+  {
+    "ean": "3297760097167",
+    "name": "C&A SSA P/ABRICOTS 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 27
+  },
+  {
+    "ean": "3297760097037",
+    "name": "C&ALICE SSA P/PINEAU 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 28
+  },
+  {
+    "ean": "3250390320739",
+    "name": "PAQUITO SSA POMNAT 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 29
+  },
+  {
+    "ean": "3608580006671",
+    "name": "ANDROS DES FR POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3250390320715",
+    "name": "PAQUITO DES POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3608580796398",
+    "name": "ANDROS DELICE POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3608580796404",
+    "name": "ANDROS DELICE DE CERISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3608580762294",
+    "name": "ANDROS MORCEAUX RHUBARBE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 18
+  },
+  {
+    "ean": "3297760097280",
+    "name": "CH. & ALICE POM CERIS SSA 4X97G",
+    "page": 3,
+    "shelf": 5,
+    "position": 19
+  },
+  {
+    "ean": "3297760097990",
+    "name": "C&A SSA P/MYRTILLES 4X97G",
+    "page": 3,
+    "shelf": 5,
+    "position": 20
+  },
+  {
+    "ean": "3297760097051",
+    "name": "C&A SSA P/FRAMBOISES 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 21
+  },
+  {
+    "ean": "3250390320722",
+    "name": "PAQUITO SSA POMME 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 22
+  },
+  {
+    "ean": "3608580784517",
     "name": "ANDROS POMME 8X100G",
     "page": 4,
     "shelf": 6,
     "position": 6
   },
   {
-    "ean": "3250391201708",
+    "ean": "3250390320708",
     "name": "PAQUITO DESS.FTS POMME 8X100G",
     "page": 4,
     "shelf": 6,
     "position": 7
   },
   {
-    "ean": "3021760480144",
+    "ean": "3021760980149",
     "name": "MATERNE 5 FRT ORA.ROSE12X100G",
     "page": 4,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3561540784522",
+    "ean": "3297760098430",
+    "name": "C&A SSA P/POI/ABR/MANG 12X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3297760098829",
+    "name": "C&A SSA POMME 12X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3297760097099",
+    "name": "C&A SSA RHUBARBE 4X97G",
+    "page": 4,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3297760097006",
+    "name": "C&A SSA POMMES 4X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250392482176",
+    "name": "PAQUITO SSA POMME 8X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 13
+  },
+  {
+    "ean": "3608580784524",
     "name": "ANDROS POMME 16X100G",
     "page": 4,
     "shelf": 7,
     "position": 1
   },
   {
-    "ean": "3250390095942",
+    "ean": "3608580003625",
+    "name": "AND.POM-FRSE-POIR-ABR.16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250391994045",
+    "name": "PAQUITO DES.FRTS PAN. 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250391374083",
+    "name": "PN/PAQ DESS.FRT POMME 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250393095962",
     "name": "PN/PAQUITO PANACHE SSA 16X100G",
     "page": 4,
     "shelf": 7,
     "position": 5
   },
   {
-    "ean": "3250392360728",
+    "ean": "3250392360726",
     "name": "PAT VEG SOJA CARAMEL 4X100G",
     "page": 5,
     "shelf": 1,
     "position": 55
   },
   {
-    "ean": "3561341288676",
+    "ean": "3661344288676",
     "name": "L2V CD BIO VANILLE 4X95G",
     "page": 5,
     "shelf": 1,
     "position": 56
   },
   {
-    "ean": "3561341288690",
+    "ean": "3661344288690",
     "name": "L2V CD BIO CHOCOLAT 4X95G",
     "page": 5,
     "shelf": 1,
     "position": 57
   },
   {
-    "ean": "3250392126867",
+    "ean": "3250392726980",
     "name": "BIO PAT CR DES CHOCO 4X95G",
     "page": 5,
     "shelf": 1,
@@ -64,7 +400,7 @@
   },
   {
     "ean": "3250392743161",
-    "name": "PAT YRT A LA GREC BIO NAT 500G",
+    "name": "PAT YRT A LA GREC BIO NAT.500G",
     "page": 5,
     "shelf": 1,
     "position": 59
@@ -77,336 +413,329 @@
     "position": 60
   },
   {
-    "ean": "3250392440307",
+    "ean": "3250392946005",
     "name": "PAQUITO SSA POM BIO 4X100G",
     "page": 5,
     "shelf": 1,
     "position": 61
   },
   {
-    "ean": "3250392440314",
-    "name": "PAQUITO SSA POM/POIR BIO 4X100G",
+    "ean": "3250392946036",
+    "name": "PAQUITO SSA POM/POIR BIO4X100G",
     "page": 5,
     "shelf": 1,
     "position": 62
   },
   {
-    "ean": "3250392290223",
-    "name": "S/PE/PAT VEG SOJA AU CHO 4X100G",
+    "ean": "3250391290529",
+    "name": "S/PE/PAT VEG SOJA AU CHO4X100G",
     "page": 5,
     "shelf": 2,
     "position": 46
   },
   {
-    "ean": "3561341288683",
-    "name": "L2V CREMEUX CARAMEL BIO 4X95G",
+    "ean": "3661344288683",
+    "name": "L2V CREMEUH CARAMEL BIO 4X95G",
     "page": 5,
     "shelf": 2,
     "position": 47
   },
   {
-    "ean": "3561341246379",
+    "ean": "3661344795372",
     "name": "LES 2 VACHES FLAN BIO 4X100G",
     "page": 5,
     "shelf": 2,
     "position": 48
   },
   {
-    "ean": "3273220539125",
-    "name": "VRAI FLAN V NAP BIO CAR 4X125G",
+    "ean": "3429330539122",
+    "name": "VRAI FLAN V.NAP.BIO CAR4X125G",
     "page": 5,
     "shelf": 2,
     "position": 49
   },
   {
-    "ean": "3250392480983",
+    "ean": "3250392480981",
     "name": "PAT. YT GREC BIO NATURE 2X150G",
     "page": 5,
     "shelf": 2,
     "position": 50
   },
   {
-    "ean": "3250391506660",
+    "ean": "3250391506682",
     "name": "PAT YRT NAT ECREM BIO 4X125G",
     "page": 5,
     "shelf": 2,
     "position": 51
   },
   {
-    "ean": "3273220542521",
-    "name": "300LAITIERS YRT BIO NAT 4X110G",
+    "ean": "3523230062527",
+    "name": "300LAITIERS YRT BIO NAT4X110G",
     "page": 5,
     "shelf": 2,
     "position": 52
   },
   {
-    "ean": "3561341246324",
+    "ean": "3661344961326",
     "name": "L2V BRASSE NATURE BIO 4X115G",
     "page": 5,
     "shelf": 2,
     "position": 53
   },
   {
-    "ean": "3497580002490",
-    "name": "ANDROS COMP POM MANGE 4X100G",
+    "ean": "3608580102496",
+    "name": "ANDROS COMP.POM.MANGUE 4X100G",
     "page": 5,
     "shelf": 2,
     "position": 54
   },
   {
-    "ean": "3273220685301",
+    "ean": "3273220085301",
     "name": "SOJASUN NOISETTE-AMANDE 4X100G",
     "page": 5,
     "shelf": 3,
     "position": 36
   },
   {
-    "ean": "3273220540770",
-    "name": "VRAI YRT BREB BIO CHAT 2X125G",
+    "ean": "3273220540275",
+    "name": "VRAI YRT BREB.BIO CHAT.2X125G",
     "page": 5,
     "shelf": 3,
     "position": 37
   },
   {
     "ean": "3273220540015",
-    "name": "VRAI YRT BIO BREBIS NAT 2X125G",
+    "name": "VRAI YRT BIO BREBIS NAT.2X125G",
     "page": 5,
     "shelf": 3,
     "position": 38
   },
   {
-    "ean": "3250392436064",
+    "ean": "3250392430054",
     "name": "PAT YRT BREBIS BIO NAT 2X125G",
     "page": 6,
     "shelf": 3,
     "position": 39
   },
   {
-    "ean": "3250392515158",
+    "ean": "3250392513159",
     "name": "ME/PAT YRT BIO VANILLE 4X125G",
     "page": 6,
     "shelf": 3,
     "position": 40
   },
   {
-    "ean": "3250392515189",
+    "ean": "3250392513180",
     "name": "BIO PAT YT CITRON 4X125G",
     "page": 6,
     "shelf": 3,
     "position": 41
   },
   {
-    "ean": "3250392647941",
-    "name": "BIO PAT YT NATURE 4X125G",
-    "page": 6,
-    "shelf": 3,
-    "position": 42
-  },
-  {
-    "ean": "3250392683338",
-    "name": "L2 VACHES BIO VANILLE 4X115G",
+    "ean": "3661344688339",
+    "name": "L.2 VACHES BIO VANILLE 4X115G",
     "page": 6,
     "shelf": 3,
     "position": 43
   },
   {
-    "ean": "3561344221819",
+    "ean": "3661344221819",
     "name": "L2V YRT BRAS.BIO CITRON 4X115G",
     "page": 6,
     "shelf": 3,
     "position": 44
   },
   {
-    "ean": "3561344208466",
-    "name": "ANDROS DESS.FRT.POMBAN.4X100G",
+    "ean": "3608580006664",
+    "name": "ANDROS DESS.FRT.POM/BAN.4X100G",
     "page": 6,
     "shelf": 3,
     "position": 45
   },
   {
-    "ean": "3273220087135",
-    "name": "SOJASUN DESS CERISES 4X100G",
+    "ean": "3273220083130",
+    "name": "SOJASUN DESS.CERISES 4X100G",
     "page": 6,
     "shelf": 4,
     "position": 26
   },
   {
     "ean": "3273220540855",
-    "name": "VRAI YT BIO LT CHEV NAT.2X125G",
+    "name": "VRAI YT BIO LT CHEV.NAT.2X125G",
     "page": 6,
     "shelf": 4,
     "position": 27
   },
   {
-    "ean": "3273220539955",
-    "name": "VRAI YT BIO BREBIS NAT.4X120G",
+    "ean": "3273220539903",
+    "name": "VRAI YRT BIO BREBIS NAT4X120G",
     "page": 6,
     "shelf": 4,
     "position": 28
   },
   {
-    "ean": "3250391584429",
+    "ean": "3250391584628",
     "name": "PAT YRT BREBIS VANILLE 2X125G",
     "page": 6,
     "shelf": 4,
     "position": 29
   },
   {
-    "ean": "3250391585440",
+    "ean": "3250391158546",
     "name": "ME/PAT YRT BIO FRAISE 4X125G",
     "page": 6,
     "shelf": 4,
     "position": 30
   },
   {
-    "ean": "3250392557844",
-    "name": "PATURAGE SOJA BIO NATURE 6X100G",
+    "ean": "3250392557843",
+    "name": "PATURAGE SOJA BIO NATURE6X100G",
     "page": 6,
     "shelf": 4,
     "position": 32
   },
   {
-    "ean": "3561344221796",
+    "ean": "3661344221796",
     "name": "LES 2 VACHES BIO FRAMB.4X115G",
     "page": 6,
     "shelf": 4,
     "position": 33
   },
   {
-    "ean": "3561344221772",
+    "ean": "3661344221772",
     "name": "LES 2 VACHES BIO MYRTIL.4X115G",
     "page": 6,
     "shelf": 4,
     "position": 34
   },
   {
-    "ean": "3045320076884",
+    "ean": "3045320074864",
     "name": "ANDROS POMME/RHUBARBE 4X100G",
     "page": 6,
     "shelf": 4,
     "position": 35
   },
   {
-    "ean": "3273227082350",
+    "ean": "3273220082355",
     "name": "SOJASUN YRT MANGUE 4X100G",
     "page": 6,
     "shelf": 5,
     "position": 16
   },
   {
-    "ean": "3273229641015",
+    "ean": "3273220541012",
     "name": "VRAI FB BIO LT DE BREBIS 400G",
     "page": 6,
     "shelf": 5,
     "position": 17
   },
   {
-    "ean": "3273229566356",
-    "name": "VRAI FRGE BLC BIO 3.6% MG 500G",
+    "ean": "3273220064055",
+    "name": "VRAI FRGE BLC BIO 3,6% MG 500G",
     "page": 6,
     "shelf": 5,
     "position": 18
   },
   {
-    "ean": "3250391926477",
-    "name": "BIO PAT.FRGE BLC 3.2% 8X100G",
+    "ean": "3250391824977",
+    "name": "BIO PAT.FRGE BLC 3,2% 8X100G",
     "page": 7,
     "shelf": 5,
     "position": 19
   },
   {
-    "ean": "3250392723806",
+    "ean": "3250392721084",
     "name": "PAT BRASSE BIO MANG VAN4X125G",
     "page": 7,
     "shelf": 5,
     "position": 20
   },
   {
-    "ean": "3250392647942",
+    "ean": "3250390841944",
     "name": "BIO PAT YT NATURE 4X125G",
     "page": 7,
     "shelf": 5,
     "position": 21
   },
   {
-    "ean": "3250392710660",
+    "ean": "3250392510565",
     "name": "BIO PATUR YRT BRASSE NAT4X125G",
     "page": 7,
     "shelf": 5,
     "position": 22
   },
   {
-    "ean": "3661344964133",
-    "name": "LZV BIO FRTS JNES 8X115G",
+    "ean": "3661344064133",
+    "name": "L2V BIO FRTS JNES 8X115G",
     "page": 7,
     "shelf": 5,
     "position": 23
   },
   {
-    "ean": "3661344964157",
-    "name": "LZV BIO FRTS RGS 8X115G",
+    "ean": "3661344064188",
+    "name": "L2V BIO FRTS RGS 8X115G",
     "page": 7,
     "shelf": 5,
     "position": 24
   },
   {
-    "ean": "3661344977447",
+    "ean": "3045320077445",
     "name": "ANDROS POMME/FRAMBOISE 4X100G",
     "page": 7,
     "shelf": 5,
     "position": 25
   },
   {
-    "ean": "3272770003000",
+    "ean": "3273220083000",
     "name": "SOJASUN CITRON 4X100G",
     "page": 7,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3523230054763",
+    "ean": "3523230046763",
     "name": "300LAIT. FRG BLC BIO 4X100G",
     "page": 7,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3250391591279",
-    "name": "FGE FRAIS NAT.BIO 3.6%MG 6X60G",
+    "ean": "3250391591275",
+    "name": "FGE FRAIS NAT.BIO 3,6%MG 6X60G",
     "page": 7,
     "shelf": 6,
     "position": 10
   },
   {
-    "ean": "3250391961942",
-    "name": "PAT YRT BRASSE NAT BIO 8X125G",
+    "ean": "3250391961993",
+    "name": "PAT YRT BRASSE NAT.BIO 8X125G",
     "page": 7,
     "shelf": 6,
     "position": 11
   },
   {
-    "ean": "3250391961701",
+    "ean": "3250393047701",
     "name": "PATURAGES FRT MIXES BIO 8X100G",
     "page": 7,
     "shelf": 6,
     "position": 12
   },
   {
-    "ean": "3661344982947",
-    "name": "LZV PTITS MIAMS FRUIT BIO8X50G",
+    "ean": "3661344382947",
+    "name": "L2V PTITS MIAMS FRUIT BIO 6X50G",
     "page": 7,
     "shelf": 6,
     "position": 13
   },
   {
-    "ean": "3661344982930",
-    "name": "LZV PTITS MIAM FRT BIO 12X50G",
+    "ean": "3661344382930",
+    "name": "L2V P'TITS MIAM FRT BIO 12X50G",
     "page": 7,
     "shelf": 6,
     "position": 14
   },
   {
-    "ean": "3045320002135",
+    "ean": "3045320082135",
     "name": "AND COMP POM NAT MRCX 4X100G",
     "page": 7,
     "shelf": 6,
@@ -414,7 +743,7 @@
   },
   {
     "ean": "3661344912533",
-    "name": "LZV YRT SKYR NAT BIO 825G",
+    "name": "L2V YRT SKYR NAT BIO 825G",
     "page": 7,
     "shelf": 7,
     "position": 1
@@ -427,98 +756,98 @@
     "position": 2
   },
   {
-    "ean": "3250391370430",
-    "name": "BIO PAT FGE BLC 3.6% 500G",
+    "ean": "3250391370405",
+    "name": "BIO PAT FGE BLC 3,6% 500G",
     "page": 7,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3250391651102",
+    "ean": "3250390405108",
     "name": "PAT YRT BIO VANILLE 12X125G",
     "page": 7,
     "shelf": 7,
     "position": 4
   },
   {
-    "ean": "3250391455592",
+    "ean": "3250390405092",
     "name": "ME/PAT YRT BIO NAT 12X125G",
     "page": 7,
     "shelf": 7,
     "position": 5
   },
   {
-    "ean": "3250392616680",
+    "ean": "3250392610685",
     "name": "ME/PAT.YRT FRUITS BIO 12X125G",
     "page": 8,
     "shelf": 7,
     "position": 6
   },
   {
-    "ean": "3250392290873",
-    "name": "PAT.SUISS.FRUITS BIO 12X50G",
+    "ean": "3250392200879",
+    "name": "PAT.SUISS FRUITS BIO 12X50G",
     "page": 8,
     "shelf": 7,
     "position": 7
   },
   {
-    "ean": "3280249500303",
-    "name": "P.BASQ YT BREBIS NAT.0% 2X125G",
+    "ean": "3280249800303",
+    "name": "P.BASQ.YT BREBIS NAT.0% 2X125G",
     "page": 9,
     "shelf": 1,
     "position": 46
   },
   {
-    "ean": "3280249500402",
+    "ean": "3280249800600",
     "name": "P.BASQ SKYR BREBIS 2X120G",
     "page": 9,
     "shelf": 1,
     "position": 47
   },
   {
-    "ean": "3523230039600",
-    "name": "SOIGNON YT BR.BREB ABR.4X110G",
+    "ean": "3523230039604",
+    "name": "SOIGNON YT BR.BREB.ABR.4X110G",
     "page": 9,
     "shelf": 1,
     "position": 48
   },
   {
-    "ean": "3523230039709",
-    "name": "SOIGN.YT CHEV.BR.MUR/FRB 4X125G",
+    "ean": "3523230032971",
+    "name": "SOIG.YT CHEV.BR.MUR/FRB 4X125G",
     "page": 9,
     "shelf": 1,
     "position": 49
   },
   {
     "ean": "3523230034142",
-    "name": "SOIGNON YT LT CHEV.PL.NAT.4X110G",
+    "name": "SOIGNON YT LT CHEVR.NAT.4X110G",
     "page": 9,
     "shelf": 1,
     "position": 50
   },
   {
-    "ean": "3250392398802",
+    "ean": "3250393395802",
     "name": "PAT VEG COCO MOUSS CHOCO4X55G",
     "page": 9,
     "shelf": 1,
     "position": 51
   },
   {
-    "ean": "3250392398772",
-    "name": "PAT VEG COCO LIEG CHOCO4X95G",
+    "ean": "3250393395772",
+    "name": "PAT VEG COCO LIEG CHOC4X95G",
     "page": 9,
     "shelf": 1,
     "position": 52
   },
   {
-    "ean": "3250392398710",
+    "ean": "3250393395741",
     "name": "PAT VEG COCO LIEGEOI CAFE4X95G",
     "page": 9,
     "shelf": 1,
     "position": 53
   },
   {
-    "ean": "3250391933712",
+    "ean": "3250391595712",
     "name": "PAT VEG SOJA VANILLE 4X100G",
     "page": 9,
     "shelf": 1,
@@ -532,49 +861,49 @@
     "position": 39
   },
   {
-    "ean": "3280240008005",
+    "ean": "3280240000030",
     "name": "P.BASQ CAILLE BREBIS NAT2X125G",
     "page": 9,
     "shelf": 2,
     "position": 40
   },
   {
-    "ean": "3523230039952",
-    "name": "SOIGNON YT BREBIS NAT.4X110G",
+    "ean": "3523230039567",
+    "name": "SOIGNON YT BREBIS NATUR.4X110G",
     "page": 9,
     "shelf": 2,
     "position": 41
   },
   {
-    "ean": "3523230026488",
+    "ean": "3523230026680",
     "name": "SOIGN.YT CHEVRE NAT. 0% 4X125G",
     "page": 9,
     "shelf": 2,
     "position": 42
   },
   {
-    "ean": "3588580942762",
+    "ean": "3608580942764",
     "name": "AND.MOUSSE VEGETAL CHOCO 4X55G",
     "page": 9,
     "shelf": 2,
     "position": 43
   },
   {
-    "ean": "3588580948252",
+    "ean": "3608580968252",
     "name": "AND. RIZ AU LAIT COCO 4X100G",
     "page": 9,
     "shelf": 2,
     "position": 44
   },
   {
-    "ean": "3250392153616",
+    "ean": "3250392553616",
     "name": "PAT VEG SOJA CHOC NOIS.4X100G",
     "page": 9,
     "shelf": 2,
     "position": 45
   },
   {
-    "ean": "3280241101557",
+    "ean": "3280241101507",
     "name": "PB DOUC.BREBIS VANILLE 4X100G",
     "page": 9,
     "shelf": 3,
@@ -588,148 +917,148 @@
     "position": 34
   },
   {
-    "ean": "3523230014287",
+    "ean": "3523230014267",
     "name": "SOIGN.YT NAT. LT CHEVRE 4X125G",
     "page": 9,
     "shelf": 3,
     "position": 35
   },
   {
-    "ean": "3588580086079",
+    "ean": "3608580086079",
     "name": "ANDROS DELICE VEG CHOCO 4X100G",
     "page": 9,
     "shelf": 3,
     "position": 36
   },
   {
-    "ean": "3250391290488",
-    "name": "PAT VEG SOJA FRUITS ROUGE 4X100G",
+    "ean": "3250391290468",
+    "name": "PAT VEG SOJA FRUITS ROUG4X100G",
     "page": 10,
     "shelf": 3,
     "position": 37
   },
   {
-    "ean": "3272220983260",
+    "ean": "3273220083260",
     "name": "SOJASUN MYRTILLE 4X100G",
     "page": 10,
     "shelf": 3,
     "position": 38
   },
   {
-    "ean": "3250391101101",
+    "ean": "3280241101101",
     "name": "P.BASQ.DOUC.BREB.CITRON 4X100G",
     "page": 10,
     "shelf": 4,
     "position": 24
   },
   {
-    "ean": "3250392267243",
-    "name": "PAT YRT BREB SICERLNRE 2X125G",
+    "ean": "3250392287245",
+    "name": "PAT YRT BREB S/CERI.NRE 2X125G",
     "page": 10,
     "shelf": 4,
     "position": 25
   },
   {
-    "ean": "3250392445804",
-    "name": "PAT YRT BREB LIT F.RG2X125G",
+    "ean": "3250392445904",
+    "name": "PATUR YRT BREBI LIT F.RG2X125G",
     "page": 10,
     "shelf": 4,
     "position": 26
   },
   {
-    "ean": "3422230016212",
-    "name": "SOIG.F BLANC LT CHEVRE 4X100G",
+    "ean": "3523230014212",
+    "name": "SOIG.F.BLANC LT CHEVRE 4X100G",
     "page": 10,
     "shelf": 4,
     "position": 27
   },
   {
-    "ean": "3250392747417",
-    "name": "PAT.FOE BLC CHEVRE NAT.4X100G",
+    "ean": "3250392747411",
+    "name": "PAT.FGE BLC CHEVRE NAT.4X100G",
     "page": 10,
     "shelf": 4,
     "position": 28
   },
   {
-    "ean": "3088540009997",
-    "name": "AND BRASSE VEGETAL PEC.4X100G",
+    "ean": "3608580890997",
+    "name": "AND.BRASSE VEGETAL PEC.4X100G",
     "page": 10,
     "shelf": 4,
     "position": 29
   },
   {
-    "ean": "3088540009911",
-    "name": "AND BRASSE VEGETAL FRSE 4X100G",
+    "ean": "3608580890911",
+    "name": "AND.BRASSE VEGETAL FRSE 4X100G",
     "page": 10,
     "shelf": 4,
     "position": 30
   },
   {
-    "ean": "3250391610369",
-    "name": "PAT VEG SOJA NATURE 6X100G",
-    "page": 10,
-    "shelf": 4,
-    "position": 31
-  },
-  {
-    "ean": "3272220084103",
+    "ean": "3273220082188",
     "name": "SOJASUN FRAMBOISE/PAS 4X100G",
     "page": 10,
     "shelf": 4,
     "position": 32
   },
   {
-    "ean": "3250391101002",
+    "ean": "3280241101002",
     "name": "PT BASQ.DOUC.BREBIS NAT.4X100G",
     "page": 10,
     "shelf": 5,
     "position": 16
   },
   {
-    "ean": "3250391602562",
+    "ean": "3250391402564",
     "name": "PAT YT LT BREB NAT POT 2X125G",
     "page": 10,
     "shelf": 5,
     "position": 17
   },
   {
-    "ean": "3250392427657",
-    "name": "PATUR YRT BREBIS VANILLE 4X125G",
+    "ean": "3250392427658",
+    "name": "PATUR YRT BREBIS VANILLE4X125G",
     "page": 10,
     "shelf": 5,
     "position": 18
   },
   {
-    "ean": "3250392412851",
+    "ean": "3250392612863",
     "name": "PAT YRT CHEVRE MYRTILLE 4X125G",
     "page": 10,
     "shelf": 5,
     "position": 19
   },
   {
-    "ean": "3250392379229",
+    "ean": "3250392379247",
     "name": "PAT YRT CHEVRE VAN 4X125G",
     "page": 10,
     "shelf": 5,
     "position": 20
   },
   {
-    "ean": "3088540009942",
-    "name": "AND BRASSE VEGETAL NAT.4X100G",
+    "ean": "3608580890898",
+    "name": "AND.BRASSE VEGETAL NAT.4X100G",
     "page": 10,
     "shelf": 5,
     "position": 21
   },
   {
-    "ean": "3272220982089",
+    "ean": "3250391610389",
+    "name": "PAT VEG SOJA NATURE 6X100G",
+    "page": 10,
+    "shelf": 5,
+    "position": 22
+  },
+  {
+    "ean": "3273220082089",
     "name": "SOJASUN ABRICOT/GOYAVE 4X100G",
     "page": 10,
     "shelf": 5,
     "position": 23
   },
   {
-    "ean": "3250391901000",
-    "name": "P.BASQ.YT VEL NAT BREBIS 4X115G",
+    "ean": "3280249901000",
+    "name": "P.BASQ.YT VEL.NAT.BREBIS4X115G",
     "page": 10,
     "shelf": 6,
     "position": 9
@@ -749,13 +1078,6 @@
     "position": 11
   },
   {
-    "ean": "3250391945993",
-    "name": "PAT YT LAIT CHEVR NAT 4X120G",
-    "page": 11,
-    "shelf": 6,
-    "position": 12
-  },
-  {
     "ean": "3250393468094",
     "name": "PAT SPE COCO NAT 4X100G",
     "page": 11,
@@ -770,14 +1092,14 @@
     "position": 14
   },
   {
-    "ean": "3273220083759",
+    "ean": "3273220083758",
     "name": "SOJASUN MAND.CITR.VERT4X100G",
     "page": 11,
     "shelf": 6,
     "position": 15
   },
   {
-    "ean": "3280049100512",
+    "ean": "3280249100014",
     "name": "PT BASQUE YT GREC.BREBIS2X150G",
     "page": 11,
     "shelf": 7,
@@ -791,105 +1113,252 @@
     "position": 2
   },
   {
-    "ean": "3250392155131",
-    "name": "PAT FGE BLC BREBIS 4.5% 400G",
+    "ean": "3250392335137",
+    "name": "PAT FGE BLC BREBIS 4,5% 400G",
     "page": 11,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3411188119098",
+    "ean": "3250391945993",
+    "name": "PAT YT LAIT CHEVR NAT 4X120G",
+    "page": 11,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "5411188119098",
     "name": "ALPRO PROD.FERM.SOJA COCO500G",
     "page": 11,
     "shelf": 7,
     "position": 5
   },
   {
-    "ean": "3411188103387",
+    "ean": "5411188103387",
     "name": "ALPRO PRO.FERM.SOJA VANIL.500G",
     "page": 11,
     "shelf": 7,
     "position": 6
   },
   {
-    "ean": "3273220081687",
+    "ean": "3273220081068",
     "name": "SOJASUN NATURE 12X100G",
     "page": 11,
     "shelf": 7,
     "position": 7
   },
   {
-    "ean": "3273220081017",
+    "ean": "3273220081013",
     "name": "SOJASUN NATURE 6X100G",
     "page": 11,
     "shelf": 7,
     "position": 8
   },
   {
-    "ean": "3250392791317",
+    "ean": "3329770065871",
+    "name": "PERLE LAIT S/LIT FRAMB 4X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 39
+  },
+  {
+    "ean": "3033492039705",
+    "name": "DANONE YALG NAT 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 40
+  },
+  {
+    "ean": "3033492039804",
+    "name": "DANONE YALG VAN 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 41
+  },
+  {
+    "ean": "3033492039798",
+    "name": "DANONE YALG STRACCIA 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 42
+  },
+  {
+    "ean": "3250391821938",
+    "name": "ME/PAT.YRT GREC.PCH/POIR4X150G",
+    "page": 12,
+    "shelf": 1,
+    "position": 43
+  },
+  {
+    "ean": "3250391638246",
+    "name": "ME/PAT YRT GRECQ S/MIEL 4X150G",
+    "page": 12,
+    "shelf": 1,
+    "position": 44
+  },
+  {
+    "ean": "3250390822905",
+    "name": "PAT YRT PT VERRE VAN 4X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 45
+  },
+  {
+    "ean": "3250390822882",
+    "name": "PAT YRT PT VERRE VAN 8X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3329770080126",
+    "name": "ME/YOPL.PERLE LAIT COCO 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 32
+  },
+  {
+    "ean": "3023290083000",
+    "name": "YAOS PANACH. MYRT FRMB 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 33
+  },
+  {
+    "ean": "3023290005576",
+    "name": "YAOS YT GRECQ.S/MYRTILL.4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 34
+  },
+  {
+    "ean": "3250392866501",
+    "name": "PAT YT GREC FRAISE 4X150G",
+    "page": 12,
+    "shelf": 2,
+    "position": 35
+  },
+  {
+    "ean": "3250391261819",
+    "name": "PAT YT GREC MURE/FRAMB 4X150G",
+    "page": 12,
+    "shelf": 2,
+    "position": 36
+  },
+  {
+    "ean": "3250390011989",
+    "name": "PAT YRT PT VERRE CITRON 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 37
+  },
+  {
+    "ean": "3250392440978",
+    "name": "PAT YRT PT VERRE PAN 8X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 38
+  },
+  {
+    "ean": "3023290001950",
+    "name": "YAOS YT GRECQ.S/FRAISES 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3023290002018",
+    "name": "YAOS YT GRECQ. S/PECHE 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3250392402464",
+    "name": "PAT YRT GRECQ COCO 4X150G",
+    "page": 12,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3250392866471",
+    "name": "ME/PAT YRT GRECQ S/VANIL4X150G",
+    "page": 12,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3250390011958",
+    "name": "PAT YRT PT VERRE NAT 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3250390791317",
     "name": "PAT YRT PT VERRE NAT 8X125G",
     "page": 13,
     "shelf": 3,
     "position": 31
   },
   {
-    "ean": "3250392048245",
+    "ean": "3023290048245",
     "name": "NESTLE YAOS MCX FRAISE 4X125G",
     "page": 13,
     "shelf": 4,
     "position": 20
   },
   {
-    "ean": "3250392014288",
+    "ean": "3023290014080",
     "name": "YAOS YT GRECQ STRACC. 4X125G",
     "page": 13,
     "shelf": 4,
     "position": 21
   },
   {
-    "ean": "3250392930143",
+    "ean": "3250392935146",
     "name": "PAT YALG STRACCIA 4X150G",
     "page": 13,
     "shelf": 4,
     "position": 22
   },
   {
-    "ean": "3250392581151",
+    "ean": "3250393468131",
     "name": "PAT YALG CAR BEUR SALE 4X150G",
     "page": 13,
     "shelf": 4,
     "position": 23
   },
   {
-    "ean": "3250392797964",
-    "name": "LAIT.MA REC.SAV.CITRON 4X125G",
+    "ean": "3023290101964",
+    "name": "LAITI.MA REC.SAV.CITRON 4X125G",
     "page": 13,
     "shelf": 4,
     "position": 24
   },
   {
-    "ean": "3250392701995",
-    "name": "LAITIERE MA RECET.PANACH.8X125G",
+    "ean": "3023290101995",
+    "name": "LAITIERE MA RECET.PANACH8X125G",
     "page": 13,
     "shelf": 4,
     "position": 25
   },
   {
-    "ean": "3250392152251",
+    "ean": "3023290115251",
     "name": "YAOS CITRON 4 X 125G",
     "page": 13,
     "shelf": 5,
     "position": 14
   },
   {
-    "ean": "3250392152282",
-    "name": "YAOS YT GRECQ VANILLE 4X125G",
+    "ean": "3023290115282",
+    "name": "YAOS YT GRECQ.VANILLE 4X125G",
     "page": 13,
     "shelf": 5,
     "position": 15
   },
   {
-    "ean": "3250392420445",
+    "ean": "3250392402495",
     "name": "PAT YRT GRECQ CITRON 4X150G",
     "page": 13,
     "shelf": 5,
@@ -903,91 +1372,91 @@
     "position": 17
   },
   {
-    "ean": "3250392234933",
+    "ean": "3023290234853",
     "name": "NESTLE LT P.V VANILLE 4X125G",
     "page": 13,
     "shelf": 5,
     "position": 18
   },
   {
-    "ean": "3250392931249",
+    "ean": "3023290021286",
     "name": "LAITIERE YAOURT VANILLE 8X125G",
     "page": 13,
     "shelf": 5,
     "position": 19
   },
   {
-    "ean": "3250392223005",
+    "ean": "3023290223055",
     "name": "YAOS YT GRECQ. NATURE 8X125G",
     "page": 13,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3250392122209",
-    "name": "YAOS YT GRECQ. NATURE 4X125G",
+    "ean": "3023291122005",
+    "name": "YAOS YT GRECQ. NATURE 4X150G",
     "page": 13,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3250391045661",
+    "ean": "3250391040681",
     "name": "PAT YT GREC NAT 4X150G",
     "page": 13,
     "shelf": 6,
     "position": 10
   },
   {
-    "ean": "3218157754710",
+    "ean": "5201037709750",
     "name": "DELTA YRT GREC. NATURE 2X150G",
     "page": 13,
     "shelf": 6,
     "position": 11
   },
   {
-    "ean": "3250392254863",
+    "ean": "3023290234860",
     "name": "LAITIER.MA RECET.NATURE 4X125G",
     "page": 13,
     "shelf": 6,
     "position": 12
   },
   {
-    "ean": "3250392254832",
+    "ean": "3023290234839",
     "name": "LAITIERE YAOURT NATURE 8X125G",
     "page": 13,
     "shelf": 6,
     "position": 13
   },
   {
-    "ean": "3250390038123",
+    "ean": "3023290038123",
     "name": "YAOS VANILLE 8X125G",
     "page": 13,
     "shelf": 7,
     "position": 1
   },
   {
-    "ean": "3250392712490",
-    "name": "PAT YRT GRECO AROMAT. 12X125G",
+    "ean": "3250392712495",
+    "name": "PAT YRT GRECQ AROMAT. 12X125G",
     "page": 14,
     "shelf": 7,
     "position": 2
   },
   {
-    "ean": "3250392660111",
+    "ean": "3250392060015",
     "name": "PAT YT GREC NAT 12X125G",
     "page": 14,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3250391442510",
+    "ean": "3250393443510",
     "name": "IDS YAOURT GREC POT 1KG",
     "page": 14,
     "shelf": 7,
     "position": 4
   },
   {
-    "ean": "3250392299772",
+    "ean": "5201037709774",
     "name": "DELTA YRT GREC. NATURE POT 1KG",
     "page": 14,
     "shelf": 7,
@@ -1001,29 +1470,29 @@
     "position": 6
   },
   {
-    "ean": "3250391149007",
+    "ean": "3279231149001",
     "name": "FERMIERE YT VAN POT GRES2X140G",
     "page": 14,
     "shelf": 7,
     "position": 7
   },
   {
-    "ean": "3278942550142",
-    "name": "MALO YRT FRTS FRSE FRMB5125GX4",
+    "ean": "3278692550142",
+    "name": "MALO YRT FRTS FRSE.FRMBS125GX4",
     "page": 15,
     "shelf": 1,
     "position": 36
   },
   {
-    "ean": "3278942111169",
+    "ean": "3278692111169",
     "name": "MALO YT VANIL PT CARTON 4X125G",
     "page": 15,
     "shelf": 1,
     "position": 37
   },
   {
-    "ean": "3278942111145",
-    "name": "MALO YT NATUR PT CARTON 4X125G",
+    "ean": "3278692111145",
+    "name": "MALO YT NATUR.PT CARTON 4X125G",
     "page": 15,
     "shelf": 1,
     "position": 38
@@ -1036,35 +1505,28 @@
     "position": 39
   },
   {
-    "ean": "3033490015903",
+    "ean": "3033490613983",
     "name": "JOCKEY STRACCIATELLA 4X120G",
     "page": 15,
     "shelf": 1,
     "position": 40
   },
   {
-    "ean": "3274231751013",
+    "ean": "3279231751013",
     "name": "LAFERM MOUS YT LIT FRMB 2X90G",
     "page": 15,
     "shelf": 1,
     "position": 41
   },
   {
-    "ean": "3524770045315",
-    "name": "PERLE LAIT SLIT CARAM 4X125G",
+    "ean": "3329770065918",
+    "name": "PERLE LAIT S/LIT CARAM 4X125G",
     "page": 15,
     "shelf": 1,
     "position": 42
   },
   {
-    "ean": "3256391916395",
-    "name": "PAT YRT NAT 12X125G",
-    "page": 15,
-    "shelf": 2,
-    "position": 30
-  },
-  {
-    "ean": "3256398012288",
+    "ean": "3250390012788",
     "name": "PAT ONCTUEUX NATURE 4X125G",
     "page": 15,
     "shelf": 2,
@@ -1078,28 +1540,28 @@
     "position": 32
   },
   {
-    "ean": "3256398117426",
+    "ean": "3250391002627",
     "name": "PAT YRT & CREME STRACCI 4X125G",
     "page": 15,
     "shelf": 2,
     "position": 33
   },
   {
-    "ean": "3256397985721",
-    "name": "PAT LISSEA MOUS FR/FRAIS 4X100G",
+    "ean": "3250391117420",
+    "name": "PAT.LISSEA MOUS.S/FRAIS4X100G",
     "page": 15,
     "shelf": 2,
     "position": 34
   },
   {
-    "ean": "3129770045727",
-    "name": "YOPL POL FTS JNES 4X125G",
+    "ean": "3329770083721",
+    "name": "YOPL.PDL FTS JNES 4X125G",
     "page": 15,
     "shelf": 2,
     "position": 35
   },
   {
-    "ean": "3033491497487",
+    "ean": "3250391497485",
     "name": "ME/PAT YRT ONCT VANILLE 8X125G",
     "page": 15,
     "shelf": 3,
@@ -1113,161 +1575,154 @@
     "position": 26
   },
   {
-    "ean": "3256398182226",
-    "name": "PAT VITA PAUSE STRACCIA 2X150G",
-    "page": 15,
-    "shelf": 3,
-    "position": 27
-  },
-  {
-    "ean": "3256397995942",
-    "name": "PAT LISSEA MOUSSE NAT 8X100G",
+    "ean": "3250391199549",
+    "name": "PAT.LISSEA MOUSSE NAT 8X100G",
     "page": 15,
     "shelf": 3,
     "position": 28
   },
   {
-    "ean": "3524770040133",
-    "name": "ME/YOPL PERLE LAIT CIT 4X125G",
+    "ean": "3329770080133",
+    "name": "ME/YOPL. PERLE LAIT CIT.4X125G",
     "page": 15,
     "shelf": 3,
     "position": 29
   },
   {
-    "ean": "3250390461772",
+    "ean": "3250390010395",
+    "name": "PAT YRT NAT 12X125G",
+    "page": 15,
+    "shelf": 4,
+    "position": 18
+  },
+  {
+    "ean": "3250393461774",
     "name": "PAT ONCTUEUX AGRUME 8X125G",
     "page": 16,
     "shelf": 4,
     "position": 19
   },
   {
-    "ean": "3250390604599",
+    "ean": "3033490004590",
     "name": "DANONE YT VELOUTE NATUR.8X125G",
     "page": 16,
     "shelf": 4,
     "position": 20
   },
   {
-    "ean": "3250390402225",
+    "ean": "3250390802020",
     "name": "PAT.VITA PAUSE STRACCIA 2X150G",
     "page": 16,
     "shelf": 4,
     "position": 21
   },
   {
-    "ean": "3250390676497",
+    "ean": "3250390676997",
     "name": "PAT LISSEA MOUSSE NAT 4X100G",
     "page": 16,
     "shelf": 4,
     "position": 22
   },
   {
-    "ean": "3250392000140",
+    "ean": "3329770080140",
     "name": "PERLE LAIT VANILLE 4X125G",
     "page": 16,
     "shelf": 4,
     "position": 23
   },
   {
-    "ean": "3250392049910",
+    "ean": "3250392049911",
     "name": "PAT YRT ONCT NAT SUCRE 8X125G",
     "page": 16,
     "shelf": 5,
     "position": 13
   },
   {
-    "ean": "3250390604537",
-    "name": "DANONE YAOURT NATURE 16X125G",
-    "page": 16,
-    "shelf": 5,
-    "position": 14
-  },
-  {
-    "ean": "3250392282447",
+    "ean": "3250392282448",
     "name": "PAT VITA PAUSE FRAISE 2X150G",
     "page": 16,
     "shelf": 5,
     "position": 15
   },
   {
-    "ean": "3250392193330",
+    "ean": "3033490192037",
     "name": "DAN.GERVITA FRT FRAISE 4X100G",
     "page": 16,
     "shelf": 5,
     "position": 16
   },
   {
-    "ean": "3250392180110",
+    "ean": "3329770080119",
     "name": "YOP PERLE NATURE 4X125G",
     "page": 16,
     "shelf": 5,
     "position": 17
   },
   {
-    "ean": "3250390607255",
+    "ean": "3250390007234",
     "name": "ME/PAT YRT ONCT NAT 8X125G",
     "page": 16,
     "shelf": 6,
     "position": 7
   },
   {
-    "ean": "3250390604544",
+    "ean": "3033490004545",
     "name": "DANONE YAOURT NATURE 16X125G",
     "page": 16,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3250392287275",
+    "ean": "3250392287214",
     "name": "PAT VITA PAUSE LEMON 2X150G",
     "page": 16,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3250392163007",
+    "ean": "3033490165000",
     "name": "DANONE GERVITA 4X100G",
     "page": 16,
     "shelf": 6,
     "position": 10
   },
   {
-    "ean": "3250392045462",
+    "ean": "3329770065963",
     "name": "PERLE LAIT VANILLE 8X125G",
     "page": 16,
     "shelf": 6,
     "position": 11
   },
   {
-    "ean": "3250392077590",
+    "ean": "3329770075092",
     "name": "PERLE LAIT PANAC. AROM. 8X125G",
     "page": 16,
     "shelf": 6,
     "position": 12
   },
   {
-    "ean": "3250390607248",
+    "ean": "3250390007241",
     "name": "PAT ONCTUEUX NATUR 16X125G",
     "page": 16,
     "shelf": 7,
     "position": 1
   },
   {
-    "ean": "3250390604575",
+    "ean": "3033490004576",
     "name": "DANONE VELOUTE NAT 16X125G",
     "page": 16,
     "shelf": 7,
     "position": 2
   },
   {
-    "ean": "3250392045356",
+    "ean": "3250391245383",
     "name": "PATURAG.VITA PAUSE PECHE2X150G",
     "page": 16,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3250392191992",
+    "ean": "3033490691899",
     "name": "GERVITA NATURE 8X100G",
     "page": 16,
     "shelf": 7,
@@ -1281,7 +1736,7 @@
     "position": 5
   },
   {
-    "ean": "3129770080102",
+    "ean": "3329770080102",
     "name": "PERLE LAIT NATURE 8X125G",
     "page": 17,
     "shelf": 7,
@@ -1289,13 +1744,13 @@
   },
   {
     "ean": "3033491273827",
-    "name": "DANONE FROM BLANC 3.2% 8X100G",
+    "name": "DANONE FROM BLANC 3,2% 8X100G",
     "page": 18,
     "shelf": 1,
     "position": 43
   },
   {
-    "ean": "3250391880447",
+    "ean": "3250391880444",
     "name": "PAT FAISS COUL FRT RGE 2X120G",
     "page": 18,
     "shelf": 1,
@@ -1303,91 +1758,70 @@
   },
   {
     "ean": "3184670001882",
-    "name": "FAISS ET COULIS FRAMB 2X120G",
+    "name": "FAISS.ET COULIS FRAMB.2X120G",
     "page": 18,
     "shelf": 1,
     "position": 45
   },
   {
-    "ean": "3276431749311",
-    "name": "MALO FGE FRAIS NAT 3% MG 4X100G",
+    "ean": "3278691190011",
+    "name": "MALO FGE FRAIS NAT3%MG 4X100G",
     "page": 18,
     "shelf": 1,
     "position": 46
   },
   {
-    "ean": "3613330141883",
+    "ean": "3410280141985",
     "name": "TOP BUDGET YAG NATURE 4X125G",
     "page": 18,
     "shelf": 1,
     "position": 47
   },
   {
-    "ean": "3250390001553",
+    "ean": "3250390007357",
     "name": "PAT YT NAT SUCRE CANNE 4X125G",
     "page": 18,
     "shelf": 1,
     "position": 48
   },
   {
-    "ean": "3278942420352",
+    "ean": "3278692420032",
     "name": "YAOURT CITRON 4*125G",
     "page": 18,
     "shelf": 1,
     "position": 49
   },
   {
-    "ean": "3250390012108",
-    "name": "PAT FF NATURE 3.2% MG 8X100G",
-    "page": 18,
-    "shelf": 2,
-    "position": 36
-  },
-  {
     "ean": "3250390153887",
-    "name": "PATURAGES FAISSELLE 6% 4X100G",
+    "name": "PATURAGES FAISSELLE 6%4X100G",
     "page": 18,
     "shelf": 2,
     "position": 37
   },
   {
     "ean": "3184670001165",
-    "name": "RIANS LA FAISSELLE 6% 4X100G",
+    "name": "RIANS LA FAISSELLE 6% 6X100G",
     "page": 18,
     "shelf": 2,
     "position": 38
   },
   {
     "ean": "3250390177678",
-    "name": "PAT FGE FR. NATURE 3.6% 6X60G",
+    "name": "PAT FGE FR. NATURE 3,6% 6X60G",
     "page": 18,
     "shelf": 2,
     "position": 39
   },
   {
-    "ean": "3250390158423",
-    "name": "PAT PT SUISSES ENT 9.2% 6X60G",
+    "ean": "3250390010623",
+    "name": "PAT PT SUISSES ENT 9,2% 6X60G",
     "page": 18,
     "shelf": 2,
     "position": 40
   },
   {
-    "ean": "3099730022644",
-    "name": "YOP YT NATURE SUCRE 12X125G",
-    "page": 18,
-    "shelf": 2,
-    "position": 41
-  },
-  {
-    "ean": "3250390012429",
-    "name": "ME/PAT YRT NAT 4X125G",
-    "page": 18,
-    "shelf": 2,
-    "position": 42
-  },
-  {
-    "ean": "3250390151357",
-    "name": "PAT FAISSELLE 4.5% 500G",
+    "ean": "3250390151302",
+    "name": "PAT FAISSELLE 4,5% 500G",
     "page": 18,
     "shelf": 3,
     "position": 29
@@ -1401,307 +1835,461 @@
   },
   {
     "ean": "3184670001363",
-    "name": "RIANS FAISSELLE 6% MG 4X100G",
+    "name": "RIANS FAISSELLE 6%MG 4X100G",
     "page": 18,
     "shelf": 3,
     "position": 31
   },
   {
-    "ean": "3250390001423",
-    "name": "PAT FF NATURE 3% MG 4X100G",
+    "ean": "3250390007425",
+    "name": "PAT FF NATURE 3%MG 4X100G",
     "page": 18,
     "shelf": 3,
     "position": 32
   },
   {
-    "ean": "3250390540652",
-    "name": "PAT FROM FRAIS 3.6% MG 12X60G",
-    "page": 18,
-    "shelf": 3,
-    "position": 33
+    "ean": "3250390012108",
+    "name": "PAT FF NATURE 3,2%MG 8X100G",
+    "page": 19,
+    "shelf": 4,
+    "position": 21
   },
   {
-    "ean": "3250391584953",
+    "ean": "3250390010135",
+    "name": "PAT FROM.CAMPAGNE 6.8%MG 1KG",
+    "page": 19,
+    "shelf": 4,
+    "position": 22
+  },
+  {
+    "ean": "3250392424153",
+    "name": "PAT FGE FR. VAN 2,5% 8X100G",
+    "page": 19,
+    "shelf": 4,
+    "position": 24
+  },
+  {
+    "ean": "3250390340652",
+    "name": "PAT FROM FRAIS 3.6%MG 12X60G",
+    "page": 19,
+    "shelf": 4,
+    "position": 25
+  },
+  {
+    "ean": "3329770052048",
+    "name": "YOP YT NATURE SUCRE 12X125G",
+    "page": 19,
+    "shelf": 4,
+    "position": 26
+  },
+  {
+    "ean": "3250390012429",
+    "name": "ME/PAT YRT NAT 4X125G",
+    "page": 19,
+    "shelf": 4,
+    "position": 27
+  },
+  {
+    "ean": "3250391828111",
+    "name": "PAT.FGE FR. SUCRE 3%MG 8X100G",
+    "page": 19,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3033491997792",
+    "name": "COTTAGE CHEESE NATURE 2X180G",
+    "page": 19,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3184670001080",
+    "name": "RIANS FAISSELLE 6%MG 1KG",
+    "page": 19,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3250390011550",
+    "name": "PAT SUISSE NAT 9.2%MG 12X60G",
+    "page": 19,
+    "shelf": 5,
+    "position": 18
+  },
+  {
+    "ean": "3250390007354",
+    "name": "PAT YT NAT SUCRE CANNE16X125G",
+    "page": 19,
+    "shelf": 5,
+    "position": 19
+  },
+  {
+    "ean": "3250399791270",
+    "name": "ME/PAT YRT NAT 16X125G",
+    "page": 19,
+    "shelf": 5,
+    "position": 20
+  },
+  {
+    "ean": "3033491273810",
+    "name": "DANONE FROM BLANC 3,2% 825G",
+    "page": 19,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3250390010357",
+    "name": "PAT FROM BLC 3% 500G",
+    "page": 19,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3250399007399",
+    "name": "PAT FGE BLC NATURE 8% 1KG",
+    "page": 19,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3184670001110",
+    "name": "RIANS FGE BLDX CAMPAG.7%MG2KG",
+    "page": 19,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3329770051508",
+    "name": "FFR PETIT YOPLAIT 3.8%MG12X60G",
+    "page": 19,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3033491451652",
+    "name": "DANONE SUISS.NAT.40%MG 12X60G",
+    "page": 20,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250390010364",
+    "name": "PAT FGE BLC NATURE 3,2% 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250393100123",
+    "name": "MERCI FROMAGE BLANC 3.1%MG 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3410280020280",
+    "name": "TB FGE BLANC 3%MG 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3410280020266",
+    "name": "TB YT ENTIER NATURE 12X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250390007364",
+    "name": "PAT YT NAT SUCRE CANNE16X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3250390791270",
+    "name": "ME/PAT YRT NAT 16X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3250391684953",
     "name": "PAT FGE BLC 0% CITRON 4X100G",
     "page": 21,
     "shelf": 1,
     "position": 45
   },
   {
-    "ean": "3250391422892",
+    "ean": "3033491482892",
     "name": "HIPRO CITRON 2X160G",
     "page": 21,
     "shelf": 1,
     "position": 46
   },
   {
-    "ean": "3033491125433",
+    "ean": "3033491724633",
     "name": "HIPRO BANANE BEUR CACAH2X160G",
     "page": 21,
     "shelf": 1,
     "position": 47
   },
   {
-    "ean": "3761184160351",
+    "ean": "3701184800352",
     "name": "BAIKO SKYR FRTS DES BOIS4X100G",
     "page": 21,
     "shelf": 1,
     "position": 48
   },
   {
-    "ean": "3761184160344",
+    "ean": "3701184800345",
     "name": "BAIKO SKYR MIEL 4X100G",
     "page": 21,
     "shelf": 1,
     "position": 49
   },
   {
-    "ean": "3761184160337",
+    "ean": "3701184800338",
     "name": "BAIKO SKYR NATURE 4X100G",
     "page": 21,
     "shelf": 1,
     "position": 50
   },
   {
-    "ean": "3033491580348",
+    "ean": "3033491580543",
     "name": "FJORD LAIT FERMENTE 4X125G",
     "page": 21,
     "shelf": 1,
     "position": 51
   },
   {
-    "ean": "3250391012871",
-    "name": "PAT FGE BLANC 0% 8X100G",
+    "ean": "3250390012474",
+    "name": "PAT FGE BLANC 0%8X100G",
     "page": 21,
     "shelf": 2,
     "position": 38
   },
   {
-    "ean": "3033491590330",
+    "ean": "3033491690334",
     "name": "HIPRO SAVEUR COCO 2X160G",
     "page": 21,
     "shelf": 2,
     "position": 39
   },
   {
-    "ean": "3033491588139",
+    "ean": "3033491588136",
     "name": "HIPRO VANILLE 2X160G",
     "page": 21,
     "shelf": 2,
     "position": 40
   },
   {
-    "ean": "3033491588344",
+    "ean": "3023290030547",
     "name": "SIGGIS FRAMBOISE 2X140G",
     "page": 21,
     "shelf": 2,
     "position": 41
   },
   {
-    "ean": "3033491584441",
+    "ean": "3023290069448",
     "name": "SIGGIS SKYR MIEL NOIX 2X140G",
     "page": 21,
     "shelf": 2,
     "position": 42
   },
   {
-    "ean": "3033491584465",
-    "name": "SIGGIS SKYR MUESLI 2X140G",
+    "ean": "3023290069462",
+    "name": "SIGGI'S SKYR MUESLI 2X140G",
     "page": 21,
     "shelf": 2,
     "position": 43
   },
   {
-    "ean": "3033491580355",
-    "name": "DANONE FJORD NATURE 8X125G",
-    "page": 21,
-    "shelf": 2,
-    "position": 44
-  },
-  {
-    "ean": "3250391012628",
-    "name": "PAT NAT YT NAT 0% 12X125G",
+    "ean": "3250390012467",
+    "name": "PAT NAT. YT NAT 0% 12X125G",
     "page": 21,
     "shelf": 3,
     "position": 31
   },
   {
-    "ean": "3033491536130",
+    "ean": "3033492036131",
     "name": "HIPRO YRT PROT FRAISE 2X160G",
     "page": 21,
     "shelf": 3,
     "position": 32
   },
   {
-    "ean": "3033491582953",
+    "ean": "3033491482953",
     "name": "HIPRO MYRTILLE 2X160G",
     "page": 21,
     "shelf": 3,
     "position": 33
   },
   {
-    "ean": "3033491536604",
+    "ean": "3023290030608",
     "name": "SIGGIS VANILLE 2X140G",
     "page": 21,
     "shelf": 3,
     "position": 34
   },
   {
-    "ean": "3033491536581",
-    "name": "SIGGIS MYRTILLE 2X140G",
+    "ean": "3023290030585",
+    "name": "SIGGI'S MYRTILLE 2X140G",
     "page": 21,
     "shelf": 3,
     "position": 35
   },
   {
-    "ean": "3033491583578",
-    "name": "SIGGIS MANGUE PASSION 2X140G",
+    "ean": "3023290063873",
+    "name": "SIGGI'S MANGUE PASSION 2X140G",
     "page": 21,
     "shelf": 3,
     "position": 36
   },
   {
-    "ean": "3033491440347",
+    "ean": "3033491580536",
     "name": "DANONE FJORD NATURE 8X125G",
     "page": 22,
     "shelf": 3,
     "position": 37
   },
   {
-    "ean": "3229770082354",
+    "ean": "3329770082359",
     "name": "YOPL.SKYR PAN.8X100G",
     "page": 22,
     "shelf": 4,
     "position": 24
   },
   {
-    "ean": "3229770073272",
+    "ean": "3329770073272",
     "name": "YOPLAIT SKYR FRT RGE 0% 4X100G",
     "page": 22,
     "shelf": 4,
     "position": 25
   },
   {
-    "ean": "3033491076331",
+    "ean": "3033492076533",
     "name": "HIPRO SAV. MYRTILL 4X120G",
     "page": 22,
     "shelf": 4,
     "position": 26
   },
   {
-    "ean": "3250392192171",
+    "ean": "3250393119217",
     "name": "PATURAGES SKYR VANILLE 4X100G",
     "page": 22,
     "shelf": 4,
     "position": 27
   },
   {
-    "ean": "3250392481244",
+    "ean": "3250393468124",
     "name": "PAT SKYR COCO 4X100G",
     "page": 22,
     "shelf": 4,
     "position": 28
   },
   {
-    "ean": "3250392448254",
+    "ean": "3250393048029",
     "name": "PATURAGES SKYR NATURE 4X100G",
     "page": 22,
     "shelf": 4,
     "position": 29
   },
   {
-    "ean": "3229770076464",
-    "name": "YOPL.CALIN EXT NAT3.2%MG8X100G",
+    "ean": "3329770076464",
+    "name": "YOPL.CALIN EXT.NAT3.2%MG8X100G",
     "page": 22,
     "shelf": 4,
     "position": 30
   },
   {
-    "ean": "3229770094490",
+    "ean": "3329770089495",
     "name": "YOPLAIT SKYR LIT MARRONS 4x120g",
     "page": 22,
     "shelf": 5,
     "position": 15
   },
   {
-    "ean": "3229770073289",
+    "ean": "3329770073289",
     "name": "YOPLAIT SKYR MYRT 0% 4X100G",
     "page": 22,
     "shelf": 5,
     "position": 16
   },
   {
-    "ean": "3229770083422",
+    "ean": "3329770083622",
     "name": "YOPL.SKYR COCO 4X100G",
     "page": 22,
     "shelf": 5,
     "position": 17
   },
   {
-    "ean": "3033491974170",
+    "ean": "3033491974175",
     "name": "DANONE SKYR A BOIRE VAN 270G",
     "page": 22,
     "shelf": 5,
     "position": 18
   },
   {
-    "ean": "3033491974217",
+    "ean": "3033491974212",
     "name": "DANONE SKYR DRINK FRT RGE270G",
     "page": 22,
     "shelf": 5,
     "position": 19
   },
   {
-    "ean": "3033491948324",
+    "ean": "3033491998324",
     "name": "DANONE SKYR CERISE 2X140G",
     "page": 22,
     "shelf": 5,
     "position": 20
   },
   {
-    "ean": "3033491270883",
+    "ean": "3033491270864",
     "name": "DANONE SKYR NATURE 2X140G",
     "page": 22,
     "shelf": 5,
     "position": 21
   },
   {
-    "ean": "3229770076471",
+    "ean": "3329770076471",
     "name": "YOPL.CALIN+ F.BLC 3.2%M G 850G",
     "page": 22,
     "shelf": 5,
     "position": 22
   },
   {
-    "ean": "3250391535641",
+    "ean": "3250391535644",
     "name": "PAT FGE BLC NATURE 7% 8X100G",
     "page": 22,
     "shelf": 5,
     "position": 23
   },
   {
-    "ean": "3229770089431",
+    "ean": "3329770089433",
     "name": "YOPLAIT SKYR STRACCIA 4X120G",
     "page": 22,
     "shelf": 6,
     "position": 7
   },
   {
-    "ean": "3229770073265",
+    "ean": "3329770073265",
     "name": "YOPLAIT SKYR NATURE 0% 4X100G",
     "page": 22,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3033491055442",
+    "ean": "3033492056641",
     "name": "DANONE SKYR NAT. 8X100G",
     "page": 22,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3329770077803",
+    "ean": "3329770077003",
     "name": "YOPLAIT SKYR NATURE 0% 850G",
     "page": 23,
     "shelf": 6,
@@ -1715,70 +2303,70 @@
     "position": 11
   },
   {
-    "ean": "3250642712525",
+    "ean": "3250392712525",
     "name": "PAT YAOURT SKYR NATURES 450G",
     "page": 23,
     "shelf": 6,
     "position": 12
   },
   {
-    "ean": "3250642712556",
-    "name": "ME.PAT.YRT SKYR MYRTILLE 450G",
+    "ean": "3250392712556",
+    "name": "ME/PAT.YRT SKYR MYRTILLE 450G",
     "page": 23,
     "shelf": 6,
     "position": 13
   },
   {
-    "ean": "3329770068146",
-    "name": "YOPL.CALIN F.BL.NAT 3.2%MG 1KG",
+    "ean": "3329770060142",
+    "name": "YOPL.CALIN F.BL.NAT.3.2%MG 1KG",
     "page": 23,
     "shelf": 6,
     "position": 14
   },
   {
-    "ean": "3329770076455",
-    "name": "YOPL. CALIN EXTRA NAT.0% 8X100G",
+    "ean": "3329770076457",
+    "name": "YOPL. CALIN EXTRA NAT.0%8X100G",
     "page": 23,
     "shelf": 7,
     "position": 1
   },
   {
-    "ean": "3329770057232",
+    "ean": "3329770057234",
     "name": "YOPL.CALIN+FGE BLC 0%MG 850G",
     "page": 23,
     "shelf": 7,
     "position": 2
   },
   {
-    "ean": "3250642016098",
+    "ean": "3250390010098",
     "name": "PAT FGE BLC 0% 1KG",
     "page": 23,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3250642016371",
+    "ean": "3250390010371",
     "name": "S/PRINT FGE BLC FRAISE 0% 1KG",
     "page": 23,
     "shelf": 7,
     "position": 4
   },
   {
-    "ean": "3033490166403",
+    "ean": "3033492056603",
     "name": "DANONE DU MDE SKYR NAT.825G",
     "page": 23,
     "shelf": 7,
     "position": 5
   },
   {
-    "ean": "3250642442354",
+    "ean": "3250393447358",
     "name": "PAT SKYR NATURE 850G",
     "page": 23,
     "shelf": 7,
     "position": 6
   },
   {
-    "ean": "3250391969848",
+    "ean": "3250390969648",
     "name": "ME/PAT BIFIDUS CITRON 4X125G",
     "page": 24,
     "shelf": 1,
@@ -1792,14 +2380,14 @@
     "position": 39
   },
   {
-    "ean": "3033491328251",
+    "ean": "3033491325250",
     "name": "DANONE ACTIVIA FRAISE 4X125G",
     "page": 24,
     "shelf": 1,
     "position": 40
   },
   {
-    "ean": "3033491323386",
+    "ean": "3033491325366",
     "name": "DANONE ACTIVIA PRUNEAU 4X125G",
     "page": 24,
     "shelf": 1,
@@ -1807,7 +2395,7 @@
   },
   {
     "ean": "3033491235375",
-    "name": "DANONE ACTIVIA CEREALES MUESLI 4X120G",
+    "name": "ACTIVIA CEREALES MUESLI 4X120G",
     "page": 24,
     "shelf": 1,
     "position": 42
@@ -1827,29 +2415,29 @@
     "position": 44
   },
   {
-    "ean": "3033490008331",
+    "ean": "3023290008331",
     "name": "SVELT.FERME & FOND.CARAM4X125G",
     "page": 24,
     "shelf": 1,
     "position": 45
   },
   {
-    "ean": "3033490008362",
+    "ean": "3023290008362",
     "name": "SVELT.FERME&FOND.CHOCO 4X125G",
     "page": 24,
     "shelf": 1,
     "position": 46
   },
   {
-    "ean": "3250390405894",
+    "ean": "3250390605898",
     "name": "PAT FGE FR. NATURE 0% 6X60G",
     "page": 24,
     "shelf": 1,
     "position": 47
   },
   {
-    "ean": "3250390969817",
-    "name": "PAT BIFIDUS VANILLE 4X115G",
+    "ean": "3250390969617",
+    "name": "PAT BIFIDUS VANILLE 4X125G",
     "page": 24,
     "shelf": 2,
     "position": 31
@@ -1862,7 +2450,7 @@
     "position": 32
   },
   {
-    "ean": "3033491328282",
+    "ean": "3033491325243",
     "name": "DANONE ACTIVIA CERISE 4X125G",
     "page": 24,
     "shelf": 2,
@@ -1870,34 +2458,34 @@
   },
   {
     "ean": "3033491235405",
-    "name": "ACTIVIA CEREAL.QUINNOI34X120G",
+    "name": "ACTIVIA CEREAL.QUIN/NOIS4X120G",
     "page": 24,
     "shelf": 2,
     "position": 34
   },
   {
-    "ean": "3033491215216",
+    "ean": "3033491213212",
     "name": "ACTIMEL SAV.MULTIFRUITS 8X100G",
     "page": 24,
     "shelf": 2,
     "position": 35
   },
   {
-    "ean": "3033491168031",
-    "name": "SVELT.FERME&FOND.SA VAN.8X125G",
+    "ean": "3023291169031",
+    "name": "SVELT.FERM&FOND.SA.VAN.8X125G",
     "page": 24,
     "shelf": 2,
     "position": 36
   },
   {
-    "ean": "3250391992181",
+    "ean": "3250391692187",
     "name": "PAT F.BLC 0% VAN.8X100G",
     "page": 24,
     "shelf": 2,
     "position": 37
   },
   {
-    "ean": "3250391446973",
+    "ean": "3250391446971",
     "name": "PAT BIFIDUS COCO 4X125G",
     "page": 24,
     "shelf": 3,
@@ -1918,70 +2506,259 @@
     "position": 25
   },
   {
-    "ean": "3772900901617",
+    "ean": "3033491325519",
+    "name": "DANONE ACTIVIA MANGUE 4X125G",
+    "page": 25,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3033491235382",
+    "name": "ACTIVIA CEREALES NOIX 4X120G",
+    "page": 25,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3033491214509",
+    "name": "ACTIMEL NATURE 0% 8X100G",
+    "page": 25,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3033490006143",
+    "name": "LIGHT&F.MSE.FRT PEC.FRSE4X115G",
+    "page": 25,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3033490005986",
+    "name": "LIGHT&FREE FR.BLC VAN. 4X120G",
+    "page": 25,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3033491325694",
+    "name": "DAN.ACTIVIA AB-FR-MA-KI 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 18
+  },
+  {
+    "ean": "3033490545185",
+    "name": "ACTIVIA BIFID.NATURE 0% 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3033491213205",
+    "name": "ACTIMEL NATURE SUCRE 12X100G",
+    "page": 25,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3033490006099",
+    "name": "LIGHT&FREE FRTS ROUGES 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 21
+  },
+  {
+    "ean": "3250390168997",
+    "name": "PAT YT 0% SAV VANILLE 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 22
+  },
+  {
+    "ean": "3033491325700",
+    "name": "ACT.ANA-RHU-FIG-PRU.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3033490699833",
+    "name": "ACTIVIA BIF.BRASS.NATUR.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3033491213199",
+    "name": "ACTIMEL GOUT FRAISE 12X100G",
+    "page": 25,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3329770086296",
+    "name": "YOP.PAN 0%MG FRTS ROU.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3250390597360",
+    "name": "ME/PRINT YT BRASSE NAT.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3250390841289",
+    "name": "PAT BIFIDUS NAT 4X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3250391249831",
+    "name": "PAT BIFIDUS VANILLE 12X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3033491350672",
+    "name": "ACTIVIA AROMAT.PANACHE 12X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3033491325236",
+    "name": "ACTIVIA FRTS PANACHES 16X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3329770086289",
+    "name": "YOP.PAN.FRTS JAU.0%MG 8X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3250393048043",
+    "name": "PAT YT 0% FRUITS 12X125G",
+    "page": 26,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250390779100",
+    "name": "PAT BIFIDUS NAT 12X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3033491350689",
+    "name": "ACTIVIA SAVEUR VANILLE 12X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3033491139444",
+    "name": "ACTIVIA BIFIDUS NATURE 12X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3033491139819",
+    "name": "ACTIVIA BIFIDUS NATURE 16X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3329770086319",
+    "name": "YOP.PAN.0%MG FRTS PAN.16X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3250393048074",
+    "name": "PAT FRUTI.YT PANACH 0%16X125G",
+    "page": 26,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3372900901471",
     "name": "MM MOELLEUX CHOCO NR 2X120G",
     "page": 27,
     "shelf": 1,
     "position": 32
   },
   {
-    "ean": "3250391191544",
+    "ean": "3250391101344",
     "name": "ME/CREA FONDANT CHOCO 2X90G",
     "page": 27,
     "shelf": 1,
     "position": 33
   },
   {
-    "ean": "3250391532419",
+    "ean": "3250391334919",
     "name": "CREA TIRAMISU SPECU 2X100G",
     "page": 27,
     "shelf": 1,
     "position": 34
   },
   {
-    "ean": "3250391775862",
+    "ean": "3250391773602",
     "name": "PN/PAT.TIRAMISU FRAMBOIS2X100G",
     "page": 27,
     "shelf": 1,
     "position": 35
   },
   {
-    "ean": "3250391963917",
+    "ean": "3250391945931",
     "name": "CREA TENTATION CHOCO 110G",
     "page": 27,
     "shelf": 1,
     "position": 36
   },
   {
-    "ean": "3250391963924",
+    "ean": "3250391945962",
     "name": "CREA TENTATION CAFE 110G",
     "page": 27,
     "shelf": 1,
     "position": 37
   },
   {
-    "ean": "3184670008381",
+    "ean": "3184670008089",
     "name": "RIANS CR BRULEE RHUM 2X100G",
     "page": 27,
     "shelf": 2,
     "position": 25
   },
   {
-    "ean": "3184670008627",
+    "ean": "3184670006627",
     "name": "RIANS PAN COTT FTS RGES 2X120G",
     "page": 27,
     "shelf": 2,
     "position": 26
   },
   {
-    "ean": "3250391530742",
+    "ean": "3250391334742",
     "name": "CREA PANNA COTTA FRMB. 2X120G",
     "page": 27,
     "shelf": 2,
     "position": 27
   },
   {
-    "ean": "3250392188077",
+    "ean": "3250392888077",
     "name": "CREA PAN COTTA MANG PAS 2X120G",
     "page": 27,
     "shelf": 2,
@@ -1995,140 +2772,140 @@
     "position": 29
   },
   {
-    "ean": "3250393489038",
+    "ean": "3250393469008",
     "name": "CREA TIRAMISU PISTACHE 2X100G",
     "page": 27,
     "shelf": 2,
     "position": 30
   },
   {
-    "ean": "3250391776630",
+    "ean": "3250393176647",
     "name": "PAT PANNA COTTA LT CARAM4X90G",
     "page": 27,
     "shelf": 2,
     "position": 31
   },
   {
-    "ean": "3184670008610",
+    "ean": "3184670006610",
     "name": "RIANS PAN COTT MANG/PAS 2X120G",
     "page": 27,
     "shelf": 3,
     "position": 21
   },
   {
-    "ean": "3250391943445",
+    "ean": "3023290643488",
     "name": "NESTLE CLAFOUTIS CERISES 4X85G",
     "page": 27,
     "shelf": 3,
     "position": 22
   },
   {
-    "ean": "3250391790704",
+    "ean": "3250391790708",
     "name": "ME/PAT CLAFOUTIS CERISES 4X85G",
     "page": 27,
     "shelf": 3,
     "position": 23
   },
   {
-    "ean": "3250390582246",
+    "ean": "3250390682486",
     "name": "ME/PAT BABA AU RHUM 2X140G",
     "page": 27,
     "shelf": 3,
     "position": 24
   },
   {
-    "ean": "3168580454763",
+    "ean": "3608580934783",
     "name": "B.MAMAN BABA AU RHUM 2X140G",
     "page": 27,
     "shelf": 4,
     "position": 16
   },
   {
-    "ean": "3073290719329",
+    "ean": "3023290719329",
     "name": "LALAIT.CLAFOUTIS POMME 4X85G",
     "page": 27,
     "shelf": 4,
     "position": 17
   },
   {
-    "ean": "3073290720813",
-    "name": "LAITIER PT CLAFOUTIS ABR4X85G",
+    "ean": "3023290208137",
+    "name": "LAITIER.PT CLAFOUTIS ABR4X85G",
     "page": 27,
     "shelf": 4,
     "position": 18
   },
   {
-    "ean": "3250391195833",
-    "name": "PAT PROFITEROLES 4X90G",
-    "page": 28,
-    "shelf": 4,
-    "position": 19
-  },
-  {
-    "ean": "3250392672752",
-    "name": "PAT TIRAMISU 4X80G",
-    "page": 28,
-    "shelf": 4,
-    "position": 20
-  },
-  {
-    "ean": "3250390903317",
+    "ean": "3608580907831",
     "name": "B. MAMAN POMMES TATIN 2X120G",
     "page": 28,
     "shelf": 5,
     "position": 11
   },
   {
-    "ean": "3023290119312",
+    "ean": "3023290719312",
     "name": "LLT AMANDINE POIRE 4X85G",
     "page": 28,
     "shelf": 5,
     "position": 12
   },
   {
-    "ean": "3023290119329",
+    "ean": "3023290456538",
     "name": "LAITIERE PROFITEROLES 4X90G",
     "page": 28,
     "shelf": 5,
     "position": 13
   },
   {
-    "ean": "3068380744830",
+    "ean": "3250391195633",
+    "name": "PAT PROFITEROLES 4X90G",
+    "page": 28,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3250392471712",
+    "name": "PAT TIRAMISU 4X80G",
+    "page": 28,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3608580748830",
     "name": "BONNE MAMAN FORET NOIRE 2X100G",
     "page": 28,
     "shelf": 6,
     "position": 5
   },
   {
-    "ean": "3023290116809",
+    "ean": "3023290169803",
     "name": "LAIT.ILE FLOT.ECL.CARA.4X100G",
     "page": 28,
     "shelf": 6,
     "position": 6
   },
   {
-    "ean": "3250392437214",
-    "name": "PATURAGES CAPPUCCINO 2X90G",
+    "ean": "3250393437212",
+    "name": "PATURAGES CAPPUCINO 2X90G",
     "page": 28,
     "shelf": 6,
     "position": 7
   },
   {
-    "ean": "3250391192979",
+    "ean": "3250391192977",
     "name": "PAT BIFIDUS ARO 12X125G",
     "page": 28,
     "shelf": 6,
     "position": 8
   },
   {
-    "ean": "3250391126191",
+    "ean": "3250391243921",
     "name": "PAT TARTUFO 2X90G",
     "page": 28,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3250391522769",
+    "ean": "3250391522767",
     "name": "PAT TIRAMISU 500G",
     "page": 28,
     "shelf": 6,
@@ -2142,269 +2919,1823 @@
     "position": 1
   },
   {
-    "ean": "3068380749117",
-    "name": "GU CHEESECAKE SPECULOOS 2X80G",
+    "ean": "5060023979177",
+    "name": "GU CHEESECAKE SPECULOOS 2X90G",
     "page": 28,
     "shelf": 7,
     "position": 2
   },
   {
-    "ean": "3176572350865",
+    "ean": "3176572350069",
     "name": "YOP ILE GOURMANDE 6X101G",
     "page": 28,
     "shelf": 7,
     "position": 3
   },
   {
-    "ean": "3250390976496",
+    "ean": "3250390974697",
     "name": "ME/PAT ILE FLOTTANTE 4X100G",
     "page": 28,
     "shelf": 7,
     "position": 4
   },
   {
-    "ean": "3102329168942",
-    "name": "LAIT RIZ LT RHUM RAIS.4X115G",
+    "ean": "3608580908197",
+    "name": "B.MAM.RIZ LT VAN.NATUREL4X100G",
+    "page": 29,
+    "shelf": 1,
+    "position": 39
+  },
+  {
+    "ean": "3279231500000",
+    "name": "FERMIERE RIZ LAIT VAN.2X160G",
+    "page": 29,
+    "shelf": 1,
+    "position": 40
+  },
+  {
+    "ean": "3279231501007",
+    "name": "LA FERMIERE RIZ AU LAIT 2X160G",
+    "page": 29,
+    "shelf": 1,
+    "position": 41
+  },
+  {
+    "ean": "3184670006115",
+    "name": "RIANS ONCT.CARA.B.SAL.2X90G",
+    "page": 29,
+    "shelf": 1,
+    "position": 44
+  },
+  {
+    "ean": "3184670006429",
+    "name": "RIANS ONCTUEUX CAFE 2X94G",
+    "page": 29,
+    "shelf": 1,
+    "position": 45
+  },
+  {
+    "ean": "3023290036686",
+    "name": "LAITIER.RIZ LT SAV.VAN.4X115G",
+    "page": 29,
+    "shelf": 2,
+    "position": 33
+  },
+  {
+    "ean": "3250391590377",
+    "name": "PAT RIZ AU LAIT VAN 4X115G",
+    "page": 29,
+    "shelf": 2,
+    "position": 34
+  },
+  {
+    "ean": "3250390151104",
+    "name": "PAT CREME CARAMEL 4X100G",
+    "page": 29,
+    "shelf": 2,
+    "position": 35
+  },
+  {
+    "ean": "3250391262038",
+    "name": "PAT CREME BRULEE 2X100G",
+    "page": 29,
+    "shelf": 2,
+    "position": 36
+  },
+  {
+    "ean": "3184670008461",
+    "name": "RIANS CREM.BRUL.NX PEC 2X100G",
+    "page": 29,
+    "shelf": 2,
+    "position": 37
+  },
+  {
+    "ean": "3023290092088",
+    "name": "LL RIZ LAIT CHOCOLAT 4X115G",
+    "page": 29,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3250390012276",
+    "name": "PAT RIZ AU LAIT NATURE 4X115G",
+    "page": 29,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3250390822929",
+    "name": "PAT RIZ AU LAIT S/CARA 4X115G",
+    "page": 29,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3250392170684",
+    "name": "PAT CAO COCO S/CARA 4X100G",
+    "page": 29,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3250391522828",
+    "name": "PAT FLAN PATISSIER 4X100G",
+    "page": 29,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3184670007808",
+    "name": "RIANS L'AUTH.CR.BRULEE 2X100G",
+    "page": 29,
+    "shelf": 3,
+    "position": 31
+  },
+  {
+    "ean": "3184670006917",
+    "name": "RIANS ONCT VANIL SPECL 2X90G",
+    "page": 29,
+    "shelf": 3,
+    "position": 32
+  },
+  {
+    "ean": "3023290169940",
+    "name": "LALAIT.RIZ LT RHUM RAIS.4X115G",
     "page": 30,
     "shelf": 4,
     "position": 20
   },
   {
-    "ean": "3102329162243",
+    "ean": "3250390822943",
     "name": "PAT RIZ RHUM RAISIN 4X115G",
     "page": 30,
     "shelf": 4,
     "position": 21
   },
   {
-    "ean": "3102329152543",
+    "ean": "3250390152545",
     "name": "PAT GATEAU DE RIZ 4X100G",
     "page": 30,
     "shelf": 4,
     "position": 22
   },
   {
-    "ean": "3102329515309",
+    "ean": "3250390615309",
     "name": "PAT CAO VANILLE 4X100G",
     "page": 30,
     "shelf": 4,
     "position": 23
   },
   {
-    "ean": "3023290153090",
+    "ean": "3023290797365",
     "name": "LAITIERE CREME BRULEE 4X100G",
     "page": 30,
     "shelf": 4,
     "position": 24
   },
   {
-    "ean": "3456747935301",
+    "ean": "3456774797535",
     "name": "M.NOVA PARIS BREST 2X90G",
     "page": 30,
     "shelf": 4,
     "position": 25
   },
   {
-    "ean": "3102329156459",
-    "name": "LL SEMOULE LAIT 4X115G",
+    "ean": "3250390804499",
+    "name": "PAT RIZ AU LAIT VAN 8X115G",
     "page": 30,
     "shelf": 5,
-    "position": 15
+    "position": 16
   },
   {
-    "ean": "3102329110997",
-    "name": "PAT CREME OEUF VANIL 8X100G",
-    "page": 30,
-    "shelf": 5,
-    "position": 17
-  },
-  {
-    "ean": "3102329123702",
+    "ean": "3023290233702",
     "name": "NESTLE CREME CARAMEL 4X100G",
     "page": 30,
     "shelf": 5,
     "position": 18
   },
   {
-    "ean": "3064320125100",
+    "ean": "3045320525106",
     "name": "BONNE MAMAN FRAISIER 2X100G",
     "page": 30,
     "shelf": 5,
     "position": 19
   },
   {
-    "ean": "3250391562214",
+    "ean": "3023290036655",
+    "name": "LL SEMOULE LAIT 4X115G",
+    "page": 30,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3250393462214",
     "name": "S/PAT SEM LT VAN/CAR.4X115G",
     "page": 30,
     "shelf": 6,
     "position": 9
   },
   {
-    "ean": "3250391561996",
+    "ean": "3250393461996",
     "name": "S/PAT SEM LT VANILLE 4X115G",
     "page": 30,
     "shelf": 6,
     "position": 10
   },
   {
-    "ean": "3250391548191",
+    "ean": "3250390348191",
     "name": "PAT GAT SEMOULE FRAIS 4X100G",
     "page": 30,
     "shelf": 6,
     "position": 11
   },
   {
-    "ean": "3250391518997",
+    "ean": "3250390610991",
     "name": "PAT CREME OEUF VANIL 8X100G",
     "page": 30,
     "shelf": 6,
     "position": 12
   },
   {
-    "ean": "3102329162595",
-    "name": "LAITIER CREM.OEUFS/CARA 4X100G",
+    "ean": "3023290623992",
+    "name": "LAITIER.CREM.OEUFS/CARA 4X100G",
     "page": 30,
     "shelf": 6,
     "position": 13
   },
   {
-    "ean": "3045320125131",
+    "ean": "3045320525137",
     "name": "B.MAMAN TARTE CITRON MER.2X90G",
     "page": 30,
     "shelf": 6,
     "position": 14
   },
   {
-    "ean": "3102329126455",
-    "name": "LAIT GATEAU RIZ NAPPE CARA500G",
+    "ean": "3023292266005",
+    "name": "LAIT.GATEAU RIZ NAPPE CARA500G",
     "page": 30,
     "shelf": 7,
     "position": 1
   },
   {
-    "ean": "3102329126185",
+    "ean": "3250390348184",
     "name": "PAT GATEAU DE RIZ 500G",
     "page": 30,
     "shelf": 7,
     "position": 2
   },
   {
-    "ean": "3250392447541",
+    "ean": "3250391966073",
+    "name": "ME/PAT.RIZ LAIT VANILLE 500G",
+    "page": 31,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250390626992",
+    "name": "PAT RIZ AU LAIT NATURE 200G",
+    "page": 31,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250391285006",
+    "name": "PAT CREME CARAMEL 8X100G",
+    "page": 31,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3023290624265",
+    "name": "LAITIERE CREM.OEUFS VAN.4X100G",
+    "page": 31,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3608580884170",
+    "name": "B.M COEUR COULANT CHOCO 2X80G",
+    "page": 31,
+    "shelf": 7,
+    "position": 7
+  },
+  {
+    "ean": "3250393447341",
     "name": "PAT LIEGEOIS VAN/CARA 4X100G",
     "page": 32,
     "shelf": 1,
     "position": 31
   },
   {
-    "ean": "3250392601960",
-    "name": "PAT MOUSSE LIEG VANILLE 4X80G",
+    "ean": "3250392601980",
+    "name": "PAT MOUSSE LIEG.VANILLE 4X80G",
     "page": 32,
     "shelf": 1,
     "position": 32
   },
   {
-    "ean": "3168880755584",
-    "name": "B.MAMAN MOUS.CHOCO LAIT 4X50G",
-    "page": 32,
-    "shelf": 1,
-    "position": 33
-  },
-  {
-    "ean": "3172900020089",
-    "name": "MM MOUSSE CHOCO A L'ANC. 2X100G",
+    "ean": "3372900020059",
+    "name": "MM MOUSSE CHOCO A L'ANC.2X100G",
     "page": 32,
     "shelf": 1,
     "position": 34
   },
   {
-    "ean": "3172900931071",
+    "ean": "3372900901075",
     "name": "MM MOUSSE CHOCO AU LAIT 2X100G",
     "page": 32,
     "shelf": 1,
     "position": 35
   },
   {
-    "ean": "3250392447312",
+    "ean": "3250393447310",
     "name": "PAT LIEGEOIS CAFE 4X100G",
     "page": 32,
     "shelf": 2,
     "position": 26
   },
   {
-    "ean": "3250392446421",
+    "ean": "3250390466925",
     "name": "PATURETTE MOUS LIEG CAFE 4X80G",
     "page": 32,
     "shelf": 2,
     "position": 27
   },
   {
-    "ean": "3279221712011",
+    "ean": "3279231713011",
     "name": "LAFERM MOUSSE MARRON 2X85G",
     "page": 32,
     "shelf": 2,
     "position": 29
   },
   {
-    "ean": "3250392070753",
+    "ean": "3250392070793",
     "name": "CREA MOUS CHOCO UF 2X90G",
     "page": 32,
     "shelf": 2,
     "position": 30
   },
   {
-    "ean": "3250392447343",
+    "ean": "3250393447303",
     "name": "PAT LIEGEOIS CHOCO 4X100G",
     "page": 32,
     "shelf": 3,
     "position": 21
   },
   {
-    "ean": "3250392446889",
+    "ean": "3250390466888",
     "name": "PAT MOUSSE LIEG CHOCO 4X80G",
     "page": 32,
     "shelf": 3,
     "position": 22
   },
   {
-    "ean": "3252240013449",
-    "name": "LALAITIERE MSSE IRR CH NR4X50G",
+    "ean": "3608580765684",
+    "name": "B.MAMAN MOUS.CHOCO LAIT 4X50G",
+    "page": 32,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3023290076699",
+    "name": "LALATIERE MSSE IRR CH NR4X50G",
     "page": 32,
     "shelf": 3,
     "position": 24
   },
   {
-    "ean": "3250390916262",
-    "name": "PAT MOUSSE CHOCO NOIR 4X60G",
-    "page": 32,
-    "shelf": 3,
-    "position": 25
-  },
-  {
-    "ean": "3250392447336",
+    "ean": "3250393447334",
     "name": "PAT LIEGEOIS CHOCO 12X100G",
     "page": 32,
     "shelf": 4,
     "position": 16
   },
   {
-    "ean": "3250392437641",
+    "ean": "3250392437640",
     "name": "PAT MOUS LIEG CHOC 8X80G",
     "page": 32,
     "shelf": 4,
     "position": 17
   },
   {
-    "ean": "3123290033358",
-    "name": "LAITIERE MARONSUIS 4X58,8G",
-    "page": 32,
-    "shelf": 4,
-    "position": 18
-  },
-  {
-    "ean": "3123290009858",
+    "ean": "3023290009055",
     "name": "LAITIERE MOUS CHOCO LT4X59G",
     "page": 32,
     "shelf": 4,
     "position": 19
+  },
+  {
+    "ean": "3250395016262",
+    "name": "PAT MOUSSE CHOCO NOIR 4X60G",
+    "page": 32,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3023290050378",
+    "name": "NESTLE VIENNOIS CHOCOLAT4X100G",
+    "page": 33,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3023292259014",
+    "name": "VIENNOIS MOUSSE LIEG.CHOC4X90G",
+    "page": 33,
+    "shelf": 5,
+    "position": 12
+  },
+  {
+    "ean": "3023290030356",
+    "name": "LAITIERE MARONSUIS 4X68,8G",
+    "page": 33,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3023290050255",
+    "name": "LAIT.FEUILLET.MOUSS.CHOCO4X57G",
+    "page": 33,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3023290050347",
+    "name": "NESTLE LE VIENNOIS CAFE 4X100G",
+    "page": 33,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3023292259144",
+    "name": "NESTL.MOUS.VIENNOIS CAFE 4X90G",
+    "page": 33,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3250391101375",
+    "name": "PAT MOUSSE MARRONS 4X73G",
+    "page": 33,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3023290050286",
+    "name": "LAIT.FEUILLE.MOUSSE VAN 4X57G",
+    "page": 33,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3250395012080",
+    "name": "PAT MOUSSE CHOCO LAIT 4X60G",
+    "page": 33,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3023290170076",
+    "name": "NESTLE VIENNOIS CHOCO 12X100G",
+    "page": 33,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3023290639221",
+    "name": "MOUSSE DE VIENNOIS CHOCO 8X90G",
+    "page": 33,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3033490005221",
+    "name": "DANETTE MOUSSE.CHOC 4X60G",
+    "page": 33,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250390012412",
+    "name": "PAT MOUSSE CHOCO LT NR 8X60G",
+    "page": 33,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3410280146409",
+    "name": "TOP BUDGET MOUSSE CHOCO 4X60G",
+    "page": 33,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3278693504078",
+    "name": "MALO LT EMPRES.CHOCOLAT 4X125G",
+    "page": 34,
+    "shelf": 1,
+    "position": 29
+  },
+  {
+    "ean": "3250390803447",
+    "name": "PAT PPC VANILLE 4X100G",
+    "page": 34,
+    "shelf": 1,
+    "position": 31
+  },
+  {
+    "ean": "3608580113898",
+    "name": "BM LIEGEOIS VANILLE 2X105G",
+    "page": 34,
+    "shelf": 1,
+    "position": 32
+  },
+  {
+    "ean": "3608580113836",
+    "name": "BM LIEGEOIS CAFE 2X105G",
+    "page": 34,
+    "shelf": 1,
+    "position": 33
+  },
+  {
+    "ean": "3608580113867",
+    "name": "BM LIEGEOIS CHOCO 2X105G",
+    "page": 34,
+    "shelf": 1,
+    "position": 34
+  },
+  {
+    "ean": "3250391831241",
+    "name": "PAT LIEGEOIS CARAMEL 4X100G",
+    "page": 34,
+    "shelf": 1,
+    "position": 35
+  },
+  {
+    "ean": "3278692500802",
+    "name": "ST MALO YRT EMPR VAN 4X125G",
+    "page": 34,
+    "shelf": 2,
+    "position": 23
+  },
+  {
+    "ean": "3023290035924",
+    "name": "LL PETIT POT CREME VAN 4X100G",
+    "page": 34,
+    "shelf": 2,
+    "position": 24
+  },
+  {
+    "ean": "3250390803423",
+    "name": "PAT PPC CAFE 4X100G",
+    "page": 34,
+    "shelf": 2,
+    "position": 25
+  },
+  {
+    "ean": "3456774759359",
+    "name": "M.NOVA LIEG.GRD CAF CHOC2X120G",
+    "page": 34,
+    "shelf": 2,
+    "position": 26
+  },
+  {
+    "ean": "3456774759366",
+    "name": "M.NOVA LIEG.GRD VAN.CAR.2X120G",
+    "page": 34,
+    "shelf": 2,
+    "position": 27
+  },
+  {
+    "ean": "3250393001345",
+    "name": "PAT. LIEGEOIS PISTACHE4X100G",
+    "page": 34,
+    "shelf": 2,
+    "position": 28
+  },
+  {
+    "ean": "3278690085646",
+    "name": "MALO EMPRES.CHOCO NR 4X125G",
+    "page": 34,
+    "shelf": 3,
+    "position": 17
+  },
+  {
+    "ean": "3023290035627",
+    "name": "LAITIERE PP CREME CAFE 4X100G",
+    "page": 34,
+    "shelf": 3,
+    "position": 18
+  },
+  {
+    "ean": "3250393195532",
+    "name": "PN/PAT.PPC PISTACHE 4X100G",
+    "page": 34,
+    "shelf": 3,
+    "position": 19
+  },
+  {
+    "ean": "3033491377143",
+    "name": "DANETTE LIEG. EXPRESSO 4X100G",
+    "page": 34,
+    "shelf": 3,
+    "position": 20
+  },
+  {
+    "ean": "3279231733019",
+    "name": "LAFERM LIEGEOIS CAFE 2X120G",
+    "page": 34,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3250393447327",
+    "name": "PAT LIEGEOIS CHOCO/CAFE 8X100G",
+    "page": 34,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3278693504083",
+    "name": "MALO EMPRESURE CARAMEL 4X125G",
+    "page": 34,
+    "shelf": 4,
+    "position": 12
+  },
+  {
+    "ean": "3023290035689",
+    "name": "LAITIER.POT CREM.CARAMEL 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 13
+  },
+  {
+    "ean": "3250391284979",
+    "name": "PAT PPC CARAMEL 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 14
+  },
+  {
+    "ean": "3250391047635",
+    "name": "PAT PPC COCO 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 15
+  },
+  {
+    "ean": "3033491377112",
+    "name": "DAN.LIEGEOIS SAV.VANIL.4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3033491377105",
+    "name": "DANETTE LIEGEOIS CHOCO 4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 10
+  },
+  {
+    "ean": "3023290620144",
+    "name": "VIENNOIS VANIL.S/CAR4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3023290035801",
+    "name": "LL PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 4
+  },
+  {
+    "ean": "3250390803409",
+    "name": "ME/PAT PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3033491377167",
+    "name": "DAN.LIEGEOIS CHOCO-VAN.8X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3023290050408",
+    "name": "NESTL.VIENN.CHOC CAFE 8X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3410280140278",
+    "name": "TOP BUDG CD CHOC/VAN 12X115G",
+    "page": 35,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250391254842",
+    "name": "PAT PPC CHOCO 8X100G",
+    "page": 35,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3033491377150",
+    "name": "DANETTE LIEGEOIS CHOCO 8X100G",
+    "page": 35,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3033491279881",
+    "name": "DANETTE EXPRESSO 4X125G",
+    "page": 36,
+    "shelf": 1,
+    "position": 28
+  },
+  {
+    "ean": "3250390791867",
+    "name": "PAT CR.DES CAFE 4X115G",
+    "page": 36,
+    "shelf": 1,
+    "position": 29
+  },
+  {
+    "ean": "3250390859804",
+    "name": "PAT CR.DES PISTACHE 4X115G",
+    "page": 36,
+    "shelf": 1,
+    "position": 30
+  },
+  {
+    "ean": "3033491279737",
+    "name": "DANETTE CARAMEL 4X125G",
+    "page": 36,
+    "shelf": 2,
+    "position": 24
+  },
+  {
+    "ean": "3250390791881",
+    "name": "PATURETTE CARAMEL 4X115G",
+    "page": 36,
+    "shelf": 2,
+    "position": 25
+  },
+  {
+    "ean": "3250391151738",
+    "name": "PATURETTE CHOCO BLANC 4X115G",
+    "page": 36,
+    "shelf": 2,
+    "position": 26
+  },
+  {
+    "ean": "3250390791904",
+    "name": "PAT CR.DES PRALINE 4X115G",
+    "page": 36,
+    "shelf": 2,
+    "position": 27
+  },
+  {
+    "ean": "3033491279782",
+    "name": "DANETTE CHOCO NOISETTE 4X125G",
+    "page": 36,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3250390791942",
+    "name": "PAT CR.DES CHOCOLAT 4X115G",
+    "page": 36,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3250391535583",
+    "name": "PATURETTE CHOCO NOIR 4X115G",
+    "page": 36,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3033491279713",
+    "name": "DANETTE CHOCO 4X125G",
+    "page": 36,
+    "shelf": 4,
+    "position": 15
+  },
+  {
+    "ean": "3033491279294",
+    "name": "DANETTE VANILL-CHOCOLAT 4X125G",
+    "page": 36,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3250392170653",
+    "name": "PAT CR.DES VAN LIT CHO 4X115G",
+    "page": 36,
+    "shelf": 4,
+    "position": 18
+  },
+  {
+    "ean": "3250392437275",
+    "name": "PAT CR.DES ROCHER PRAL 4X115G",
+    "page": 36,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3250391540334",
+    "name": "PAT CR.DES CHOC LAIT 4X115G",
+    "page": 36,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3033491279720",
+    "name": "DANETTE VANILLE 4X125G",
+    "page": 36,
+    "shelf": 5,
+    "position": 10
+  },
+  {
+    "ean": "3250390791928",
+    "name": "PATURETTE VANILLE 4X115G",
+    "page": 36,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3250392073121",
+    "name": "PAT CR.DES VAN LIT CAR 4X115G",
+    "page": 36,
+    "shelf": 5,
+    "position": 12
+  },
+  {
+    "ean": "3250392231613",
+    "name": "PAT CR.DES PALET BRET 4X115G",
+    "page": 36,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3456774781633",
+    "name": "M.NOVA DES.GOURMD CAFE 2X150G",
+    "page": 37,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3033491377006",
+    "name": "DANETTE VAN/CHO/CARA 12X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 4
+  },
+  {
+    "ean": "3250392334536",
+    "name": "PATURETTE 3 CHOCO 12X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3250392349455",
+    "name": "PATURETTE CHOCO MENTHE 4X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3250391879540",
+    "name": "PAT CR.DES COOKIES 4X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3250392303969",
+    "name": "PATURETTE CREAMY CHOC 4X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3410280140247",
+    "name": "TOP BUDG CD VANILLE 4X115G",
+    "page": 37,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3033491432743",
+    "name": "DANETTE SAV.VAN/CHOC 12X115G",
+    "page": 37,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250390012337",
+    "name": "PATURETTE PANACHE 12X115G",
+    "page": 37,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250390240655",
+    "name": "PATURETTE PANACHE 16X115G",
+    "page": 37,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3329770086104",
+    "name": "YOP.PAN.STD.ABRI/NECT.4X125G",
+    "page": 38,
+    "shelf": 1,
+    "position": 36
+  },
+  {
+    "ean": "3023290069646",
+    "name": "LA LAIT FRUIT YT PECHE 2X110G",
+    "page": 38,
+    "shelf": 1,
+    "position": 37
+  },
+  {
+    "ean": "3279231182008",
+    "name": "MONTPLAISIR YT MARRON 2X160G",
+    "page": 38,
+    "shelf": 1,
+    "position": 38
+  },
+  {
+    "ean": "3456772021397",
+    "name": "M.NOVA YRT ABRICOT 2X150G",
+    "page": 38,
+    "shelf": 1,
+    "position": 39
+  },
+  {
+    "ean": "3177630361034",
+    "name": "M.NOVA YT GM PECH.ROUSS.2X150G",
+    "page": 38,
+    "shelf": 1,
+    "position": 40
+  },
+  {
+    "ean": "3456770522155",
+    "name": "M.NOVA CR.GMDE CAF CAPPU2X150G",
+    "page": 38,
+    "shelf": 1,
+    "position": 41
+  },
+  {
+    "ean": "3329770086142",
+    "name": "YOPLAIT PAN.CERISE 4X125G",
+    "page": 38,
+    "shelf": 2,
+    "position": 30
+  },
+  {
+    "ean": "3023290069608",
+    "name": "LA LAIT FRUIT YT FRAISE 2X110G",
+    "page": 38,
+    "shelf": 2,
+    "position": 31
+  },
+  {
+    "ean": "3279231341009",
+    "name": "LF YRT BICOUCHE CARA.BS 2X160G",
+    "page": 38,
+    "shelf": 2,
+    "position": 32
+  },
+  {
+    "ean": "3279231183005",
+    "name": "MONTPLAISIR YT MUR-MYRT.2X160G",
+    "page": 38,
+    "shelf": 2,
+    "position": 33
+  },
+  {
+    "ean": "3456770316143",
+    "name": "M.NOVA YT GD ANA-PASSION2X150G",
+    "page": 38,
+    "shelf": 2,
+    "position": 34
+  },
+  {
+    "ean": "3456774781640",
+    "name": "M.NOVA DES.GRMD CARA.BS 2X150G",
+    "page": 38,
+    "shelf": 2,
+    "position": 35
+  },
+  {
+    "ean": "3329770086098",
+    "name": "YOP.PAN.STD.FRAI/FRBS 4X125G",
+    "page": 38,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3023290093542",
+    "name": "LA LAIT FRUIT YT MANGUE 2X110G",
+    "page": 38,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3250392890995",
+    "name": "ME/PAT YT SAVOI.S/F.JNE 4X125G",
+    "page": 38,
+    "shelf": 3,
+    "position": 24
+  },
+  {
+    "ean": "3250392890964",
+    "name": "ME/PAT YT SAVOI.S/FRT RG4X125G",
+    "page": 38,
+    "shelf": 3,
+    "position": 25
+  },
+  {
+    "ean": "3456774709811",
+    "name": "M.NOVA YRT GRMD FRAMB.2X150G",
+    "page": 38,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3456778743224",
+    "name": "M.NOVA YT G.CIT.LEM.CURD2X150G",
+    "page": 38,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3456770035655",
+    "name": "M.NOVA CR.GRMD CHOCO NR2X150G",
+    "page": 38,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3033491432736",
+    "name": "DANETTE CHOCO NOIR EXTRA 4X125G",
+    "page": 38,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3329770086166",
+    "name": "YOP.PAN.STD FRTS ROUGES8X125G",
+    "page": 39,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3456774758772",
+    "name": "MN YT GMD MAND-CIT.VERT 2X150G",
+    "page": 39,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3456774781619",
+    "name": "M.NOVA DES.GMD CHOC/MENT2X150G",
+    "page": 39,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3329770086159",
+    "name": "YOP YT FRT JAUNE 8X125G",
+    "page": 39,
+    "shelf": 5,
+    "position": 10
+  },
+  {
+    "ean": "3023290600023",
+    "name": "LAITIER.FRTS PATISSIERS12X125G",
+    "page": 39,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3329770061507",
+    "name": "YOP YT LIT DE FRUITS 6X140G",
+    "page": 39,
+    "shelf": 5,
+    "position": 12
+  },
+  {
+    "ean": "3456770316105",
+    "name": "M.NOVA YRT GRMD NX COCO 2X150G",
+    "page": 39,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3456776728100",
+    "name": "M.NOVA CR.GMDE CHOC-BAN.2X150G",
+    "page": 39,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3456774781602",
+    "name": "M.NOVA DES.GOURMD CHOCO 2X150G",
+    "page": 39,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3329770086173",
+    "name": "YOPLAIT PAN.FRUITS EXO.8X125G",
+    "page": 39,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3250393458835",
+    "name": "PAT. YT PATISSIERS 12X125G",
+    "page": 39,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3033491143014",
+    "name": "DANONE REC.CRE.FTS RGES 8X125G",
+    "page": 39,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3456770008352",
+    "name": "M.NOVA YRT GRMD CERISE 2X150G",
+    "page": 39,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3456770033446",
+    "name": "M.NOVA CR.GDE VAN.BOURB.2X150G",
+    "page": 39,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3329770086197",
+    "name": "YOP.PAN.STD FRTS PAN.16X125G",
+    "page": 39,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250390664338",
+    "name": "PAT CREMEO PANACHE 16X125G",
+    "page": 39,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3410280015750",
+    "name": "TB YT ENTIER FRUITS 12X125G",
+    "page": 39,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3456770005382",
+    "name": "M.NOVA YRT GRMD PAN.6X150G",
+    "page": 40,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "4008400290829",
+    "name": "KINDER PINGUI CHOCOLAT 8X30G",
+    "page": 41,
+    "shelf": 1,
+    "position": 30
+  },
+  {
+    "ean": "3033491579745",
+    "name": "VELOUTE FRUIX FRT JNES 8X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 31
+  },
+  {
+    "ean": "3250392046736",
+    "name": "ME/PAT.YRT ONCT FRT JNE 8X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 32
+  },
+  {
+    "ean": "3250391024100",
+    "name": "ME/PAT.FRUTIMAX FRT JNE 4X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 34
+  },
+  {
+    "ean": "4008400551920",
+    "name": "KINDER MAXI KING 3X35G",
+    "page": 41,
+    "shelf": 2,
+    "position": 24
+  },
+  {
+    "ean": "8000500309469",
+    "name": "KINDER CHOCOFRESH X5 102,5G",
+    "page": 41,
+    "shelf": 2,
+    "position": 25
+  },
+  {
+    "ean": "3250391969098",
+    "name": "ME/PAT.FRUTIMAX FRT JNE 8X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 28
+  },
+  {
+    "ean": "3250391999484",
+    "name": "PAT FRUTI.YT MYRTILLE 4X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 29
+  },
+  {
+    "ean": "3023290007310",
+    "name": "NESTL NESQUIK PETIT 6X60G",
+    "page": 41,
+    "shelf": 3,
+    "position": 18
+  },
+  {
+    "ean": "3176572555280",
+    "name": "YOP PT FILOUS CHOCO 6X100G",
+    "page": 41,
+    "shelf": 3,
+    "position": 19
+  },
+  {
+    "ean": "3033491579769",
+    "name": "DANONE VELOUTE FRUIX RGE8X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 20
+  },
+  {
+    "ean": "3250392046705",
+    "name": "S/PAT YRT ONCT FRTS RGE 8X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3250390172185",
+    "name": "ST:FRUTIMAX FRAISE 4X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3033491208195",
+    "name": "DANONE DANY CHOCOLAT 4X100G",
+    "page": 41,
+    "shelf": 4,
+    "position": 12
+  },
+  {
+    "ean": "3250393414497",
+    "name": "PAT.FLAN CHOCO 4X100G",
+    "page": 41,
+    "shelf": 4,
+    "position": 13
+  },
+  {
+    "ean": "3250390348160",
+    "name": "PAT FRUTI.YT FRT RGE 8X125G",
+    "page": 42,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3250390678984",
+    "name": "PAT FRUTI.YT CERISE 4X125G",
+    "page": 42,
+    "shelf": 4,
+    "position": 17
+  },
+  {
+    "ean": "3250390007333",
+    "name": "PAT COOLCARA FLAN NAP 4X100G",
+    "page": 42,
+    "shelf": 5,
+    "position": 8
+  },
+  {
+    "ean": "3250390011774",
+    "name": "PAT FRUTIMAX PANACH 12X125G",
+    "page": 42,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3250390007340",
+    "name": "PAT COOLCARA FLAN NAP.12X100G",
+    "page": 42,
+    "shelf": 6,
+    "position": 4
+  },
+  {
+    "ean": "3033491579738",
+    "name": "DANONE VEL.FRUIX FT MIX16X125G",
+    "page": 42,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3410280010021",
+    "name": "TOP BUDG FLAN NAPPE 12X100G",
+    "page": 42,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250390012795",
+    "name": "ME/PAT YRT ONCT PAN 16X125G",
+    "page": 42,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250390815853",
+    "name": "S/PAT FRUTIMAX PANACH 16X125G",
+    "page": 42,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250390971016",
+    "name": "PN/PAT.POCKET FRAIS/BAN.6X90G",
+    "page": 43,
+    "shelf": 1,
+    "position": 38
+  },
+  {
+    "ean": "3250393461644",
+    "name": "PAT YRT GOURDE VAN.FRAMB.6X90G",
+    "page": 43,
+    "shelf": 1,
+    "position": 39
+  },
+  {
+    "ean": "3250390817352",
+    "name": "PAT PT CHARM. 3.5%MG 12X50G",
+    "page": 43,
+    "shelf": 1,
+    "position": 40
+  },
+  {
+    "ean": "3033491225253",
+    "name": "DANONINO FRUITS PANACHE 6X50G",
+    "page": 43,
+    "shelf": 1,
+    "position": 41
+  },
+  {
+    "ean": "3250391887668",
+    "name": "PAT.FF FRSE & DRAG.COL.2X110G",
+    "page": 43,
+    "shelf": 1,
+    "position": 43
+  },
+  {
+    "ean": "8000500385395",
+    "name": "KINDER PINGUI COCO 4X30G",
+    "page": 43,
+    "shelf": 1,
+    "position": 44
+  },
+  {
+    "ean": "3250391887866",
+    "name": "PAT YAB FRAIS-FRBSE-VAN 6X180G",
+    "page": 43,
+    "shelf": 2,
+    "position": 32
+  },
+  {
+    "ean": "3250390791096",
+    "name": "PAT SUISSFRUIT 2.9%MG 12X50G",
+    "page": 43,
+    "shelf": 2,
+    "position": 33
+  },
+  {
+    "ean": "3033491225284",
+    "name": "DANONINO FRUITS PANACHE 12X50G",
+    "page": 43,
+    "shelf": 2,
+    "position": 34
+  },
+  {
+    "ean": "3033491225222",
+    "name": "DANONINO FRAIS/FRMB/ABR 6X100G",
+    "page": 43,
+    "shelf": 2,
+    "position": 35
+  },
+  {
+    "ean": "3250390411161",
+    "name": "PAT MOUSS' FRUITS 6X74G",
+    "page": 43,
+    "shelf": 2,
+    "position": 36
+  },
+  {
+    "ean": "3023290400333",
+    "name": "NEST.YT FRAISE+SMARTIES 4X120G",
+    "page": 43,
+    "shelf": 2,
+    "position": 37
+  },
+  {
+    "ean": "3250391733514",
+    "name": "MONPTIT YAB BA.FSE PE.AB8X100G",
+    "page": 43,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3250390193364",
+    "name": "PAT SUISS'FRUIT 2.9%MG 18X50G",
+    "page": 43,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3033491225260",
+    "name": "DANONINO FRUITS PANACHE 18X50G",
+    "page": 43,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3033491267642",
+    "name": "DANONINO FR/PECH/POI/BA 6X100G",
+    "page": 43,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3250390137801",
+    "name": "PAT SUISS' FRUITS 6X100G",
+    "page": 43,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3023290400326",
+    "name": "NEST. YT VANIL+SMARTIES 4X120G",
+    "page": 43,
+    "shelf": 3,
+    "position": 31
+  },
+  {
+    "ean": "3250391193912",
+    "name": "PAT TUBOLO FGE BLC FRT 12X40G",
+    "page": 43,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3329770080041",
+    "name": "ME/PTITS FILOU TUBS ARO 15X37G",
+    "page": 44,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3033491233692",
+    "name": "GERVAIS A BOIRE PANACHE 6X100G",
+    "page": 44,
+    "shelf": 4,
+    "position": 21
+  },
+  {
+    "ean": "3250393396779",
+    "name": "PAT PATUR.VANILLE BILLES4X117G",
+    "page": 44,
+    "shelf": 4,
+    "position": 22
+  },
+  {
+    "ean": "3033491012006",
+    "name": "DANET.POP VAN.BIL.3CHOC4X117G",
+    "page": 44,
+    "shelf": 4,
+    "position": 23
+  },
+  {
+    "ean": "3033490143589",
+    "name": "DANETTE GOUTER LT CHOCO 6X70G",
+    "page": 44,
+    "shelf": 4,
+    "position": 24
+  },
+  {
+    "ean": "3250391224647",
+    "name": "PTIT PATURETTE CHOCO LAIT6X70G",
+    "page": 44,
+    "shelf": 4,
+    "position": 25
+  },
+  {
+    "ean": "3329770090941",
+    "name": "YOPL FILOU FR.MYRT.ABR.6X100G",
+    "page": 44,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3329770063037",
+    "name": "YAB PTITS FIL ARO.FRSE 6X100G",
+    "page": 44,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3250390566977",
+    "name": "PN/PAT P'TIT ONCT PAN 16X100G",
+    "page": 44,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3250391522798",
+    "name": "PAT CHOCO CROC CHOCO 4X117G",
+    "page": 44,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3033491012020",
+    "name": "DANET.POP CHOCO-3 CHOC.4X117G",
+    "page": 44,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3023290021064",
+    "name": "FLANBY GT VAN.NAPP.CARA.6X100G",
+    "page": 44,
+    "shelf": 5,
+    "position": 18
+  },
+  {
+    "ean": "3329770071421",
+    "name": "YOL.FF.PT.FILOUS ARO FRT24X50G",
+    "page": 44,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3329770071391",
+    "name": "PT FIL.FF. ARO FRUIT PAN12X50G",
+    "page": 44,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3250391885794",
+    "name": "PAT CHOCO CROC COLOR 4X120G",
+    "page": 44,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3033491011993",
+    "name": "DANET.CHOCO MAGIX 4X120G",
+    "page": 44,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3023290021095",
+    "name": "FLANBY GT VAN.NAPP.CAR.12X100G",
+    "page": 44,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3410280025391",
+    "name": "TOP BUDG FROM FR FRUITS 12X60G",
+    "page": 44,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3410280026824",
+    "name": "PN/T.BUDG YRT AROMATISE12X125G",
+    "page": 44,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250390010906",
+    "name": "ME/PAT P'TIT AROM 16X125G",
+    "page": 45,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3329770052017",
+    "name": "YOPL.FRULOS YT ARO PAN 16X125G",
+    "page": 45,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250392806521",
+    "name": "PATURY GELIFIE PAN.16X100G",
+    "page": 45,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3250390011897",
+    "name": "COOLCARA FLAN NAPPE 16X100G",
+    "page": 45,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3329770048706",
+    "name": "YOP MINI YOP FRAISE 8X100G",
+    "page": 46,
+    "shelf": 1,
+    "position": 21
+  },
+  {
+    "ean": "3329770075313",
+    "name": "P'TIT YOP YAB FRAISE 6X180G",
+    "page": 46,
+    "shelf": 1,
+    "position": 22
+  },
+  {
+    "ean": "3250390889632",
+    "name": "PAT YAB FRAISE 4X180G",
+    "page": 46,
+    "shelf": 1,
+    "position": 23
+  },
+  {
+    "ean": "3329770075399",
+    "name": "YOPLAIT P'TIT YOP PAN.6X180G",
+    "page": 46,
+    "shelf": 2,
+    "position": 17
+  },
+  {
+    "ean": "3329770087255",
+    "name": "YOPLAIT P'TIT YOP CHOCO 4X180G",
+    "page": 46,
+    "shelf": 2,
+    "position": 18
+  },
+  {
+    "ean": "3250392402525",
+    "name": "PAT P'TIT YAB VANILLE 4X180G",
+    "page": 46,
+    "shelf": 2,
+    "position": 19
+  },
+  {
+    "ean": "3250392547738",
+    "name": "PAT YAB EXOTIQUE 4X180G",
+    "page": 46,
+    "shelf": 2,
+    "position": 20
+  },
+  {
+    "ean": "3329770075405",
+    "name": "P'TIT YOP YAB VANILLE 6X180G",
+    "page": 46,
+    "shelf": 3,
+    "position": 14
+  },
+  {
+    "ean": "3329770075351",
+    "name": "YOPL.PTIT YOP FRAMBOISE 6X180G",
+    "page": 46,
+    "shelf": 3,
+    "position": 15
+  },
+  {
+    "ean": "3250390873099",
+    "name": "PAT P'TIT YAB FRAMBOISE 4X180G",
+    "page": 46,
+    "shelf": 3,
+    "position": 16
+  },
+  {
+    "ean": "3329770063310",
+    "name": "YAB YOP AROMATISE CITRON 825G",
+    "page": 46,
+    "shelf": 4,
+    "position": 9
+  },
+  {
+    "ean": "3329770063327",
+    "name": "YAB YOP AROMATISE COCO 825G",
+    "page": 46,
+    "shelf": 4,
+    "position": 10
+  },
+  {
+    "ean": "3329770063280",
+    "name": "YAB YOP AROMATISE FRMBSE 825G",
+    "page": 46,
+    "shelf": 4,
+    "position": 11
+  },
+  {
+    "ean": "3250391693061",
+    "name": "PAT YAB FRAMBOISE 850G",
+    "page": 46,
+    "shelf": 4,
+    "position": 12
+  },
+  {
+    "ean": "3760122960749",
+    "name": "M&A YAB VANILLE 500ML",
+    "page": 46,
+    "shelf": 4,
+    "position": 13
+  },
+  {
+    "ean": "3329770063143",
+    "name": "YOPLAIT DES YOP CHOCOLAT 825G",
+    "page": 46,
+    "shelf": 5,
+    "position": 5
+  },
+  {
+    "ean": "3329770063297",
+    "name": "YAB YOP AROMATISE VANILLE 825G",
+    "page": 46,
+    "shelf": 5,
+    "position": 6
+  },
+  {
+    "ean": "3250391693184",
+    "name": "PAT YAB VANILLE 850G",
+    "page": 46,
+    "shelf": 5,
+    "position": 8
+  },
+  {
+    "ean": "3329770063334",
+    "name": "YAB YOP AROM.FRAISE BANAN.825G",
+    "page": 46,
+    "shelf": 6,
+    "position": 1
+  },
+  {
+    "ean": "3329770063273",
+    "name": "YAB YOP AROMATISE FRAISE 825G",
+    "page": 47,
+    "shelf": 6,
+    "position": 2
+  },
+  {
+    "ean": "3250393460685",
+    "name": "PAT YAB FRAISE/BANANE 850G",
+    "page": 47,
+    "shelf": 6,
+    "position": 3
+  },
+  {
+    "ean": "3250391693009",
+    "name": "PAT YAB FRAISE 850G",
+    "page": 47,
+    "shelf": 6,
+    "position": 4
   }
 ]

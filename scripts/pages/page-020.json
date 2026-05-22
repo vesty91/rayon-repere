@@ -1,0 +1,65 @@
+[
+  {
+    "ean": "3033491451652",
+    "name": "DANONE SUISS.NAT.40%MG 12X60G",
+    "page": 20,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250390007364",
+    "name": "PAT YT NAT SUCRE CANNE16X125G",
+    "page": 20,
+    "shelf": 6,
+    "position": 13
+  },
+  {
+    "ean": "3250390791270",
+    "name": "ME/PAT YRT NAT 16X125G",
+    "page": 20,
+    "shelf": 6,
+    "position": 14
+  },
+  {
+    "ean": "3250390010364",
+    "name": "PAT FGE BLC NATURE 3,2% 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250393100123",
+    "name": "MERCI FROMAGE BLANC 3.1%MG 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3410280020280",
+    "name": "TB FGE BLANC 3%MG 1KG",
+    "page": 20,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3410280020266",
+    "name": "TB YT ENTIER NATURE 12X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250390007364",
+    "name": "PAT YT NAT SUCRE CANNE16X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3250390791270",
+    "name": "ME/PAT YRT NAT 16X125G",
+    "page": 20,
+    "shelf": 7,
+    "position": 6
+  }
+]

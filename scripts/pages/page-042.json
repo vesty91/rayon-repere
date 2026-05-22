@@ -1,0 +1,100 @@
+[
+  {
+    "ean": "3250390012795",
+    "name": "ME/PAT YRT ONCT PAN 16X125G",
+    "page": 42,
+    "shelf": 4,
+    "position": 15
+  },
+  {
+    "ean": "3250390348160",
+    "name": "PAT FRUTI.YT FRT RGE 8X125G",
+    "page": 42,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3250390678984",
+    "name": "PAT FRUTI.YT CERISE 4X125G",
+    "page": 42,
+    "shelf": 4,
+    "position": 17
+  },
+  {
+    "ean": "3250390007333",
+    "name": "PAT COOLCARA FLAN NAP 4X100G",
+    "page": 42,
+    "shelf": 5,
+    "position": 8
+  },
+  {
+    "ean": "3033491579738",
+    "name": "DANONE VEL.FRUIX FT MIX16X125G",
+    "page": 42,
+    "shelf": 5,
+    "position": 9
+  },
+  {
+    "ean": "3250390012795",
+    "name": "ME/PAT YRT ONCT PAN 16X125G",
+    "page": 42,
+    "shelf": 5,
+    "position": 10
+  },
+  {
+    "ean": "3250390011774",
+    "name": "PAT FRUTIMAX PANACH 12X125G",
+    "page": 42,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3250390007340",
+    "name": "PAT COOLCARA FLAN NAP.12X100G",
+    "page": 42,
+    "shelf": 6,
+    "position": 4
+  },
+  {
+    "ean": "3033491579738",
+    "name": "DANONE VEL.FRUIX FT MIX16X125G",
+    "page": 42,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3250390012795",
+    "name": "ME/PAT YRT ONCT PAN 16X125G",
+    "page": 42,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3250390815853",
+    "name": "S/PAT FRUTIMAX PANACH 16X125G",
+    "page": 42,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3410280010021",
+    "name": "TOP BUDG FLAN NAPPE 12X100G",
+    "page": 42,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250390012795",
+    "name": "ME/PAT YRT ONCT PAN 16X125G",
+    "page": 42,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250390815853",
+    "name": "S/PAT FRUTIMAX PANACH 16X125G",
+    "page": 42,
+    "shelf": 7,
+    "position": 3
+  }
+]

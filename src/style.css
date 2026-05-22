@@ -216,13 +216,46 @@ label {
 
 #barcode-reader {
   width: 100%;
-  border-radius: 8px;
-  overflow: hidden;
-  min-height: 200px;
 }
 
-#barcode-reader video {
+#barcode-reader .video-preview {
+  width: 100%;
   border-radius: 8px;
+  background: #000;
+  max-height: 280px;
+  object-fit: cover;
+}
+
+.manual-ean {
+  margin-top: 1rem;
+}
+
+.manual-ean label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.35rem;
+}
+
+.manual-ean-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.manual-ean-row input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--surface2);
+  border-radius: 8px;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  background: var(--surface);
+  color: var(--text);
+}
+
+.manual-ean-row .btn {
+  flex-shrink: 0;
 }
 
 .video-preview {

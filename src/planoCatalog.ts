@@ -18,10 +18,15 @@ export async function loadPlanoCatalog(): Promise<PlanoEntry[]> {
   }
 }
 
+function normalizeEan(barcode: string): string {
+  return barcode.replace(/\D/g, "");
+}
+
 export function findInCatalog(
   catalog: PlanoEntry[],
   barcode: string
 ): PlanoEntry | null {
-  const code = barcode.trim();
-  return catalog.find((e) => e.ean === code) ?? null;
+  const code = normalizeEan(barcode.trim());
+  if (code.length !== 13) return null;
+  return catalog.find((e) => normalizeEan(e.ean) === code) ?? null;
 }

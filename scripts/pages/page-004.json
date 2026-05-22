@@ -1,7 +1,93 @@
 [
-  {"ean":"3250391784517","name":"ANDROS POMME 8X100G","page":4,"shelf":6,"position":6},
-  {"ean":"3250391201708","name":"PAQUITO DESS.FTS POMME 8X100G","page":4,"shelf":6,"position":7},
-  {"ean":"3021760480144","name":"MATERNE 5 FRT ORA.ROSE12X100G","page":4,"shelf":6,"position":8},
-  {"ean":"3561540784522","name":"ANDROS POMME 16X100G","page":4,"shelf":7,"position":1},
-  {"ean":"3250390095942","name":"PN/PAQUITO PANACHE SSA 16X100G","page":4,"shelf":7,"position":5}
+  {
+    "ean": "3608580784517",
+    "name": "ANDROS POMME 8X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3250390320708",
+    "name": "PAQUITO DESS.FTS POMME 8X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3021760980149",
+    "name": "MATERNE 5 FRT ORA.ROSE12X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3297760098430",
+    "name": "C&A SSA P/POI/ABR/MANG 12X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3297760098829",
+    "name": "C&A SSA POMME 12X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3297760097099",
+    "name": "C&A SSA RHUBARBE 4X97G",
+    "page": 4,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3297760097006",
+    "name": "C&A SSA POMMES 4X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250392482176",
+    "name": "PAQUITO SSA POMME 8X100G",
+    "page": 4,
+    "shelf": 6,
+    "position": 13
+  },
+  {
+    "ean": "3608580784524",
+    "name": "ANDROS POMME 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3608580003625",
+    "name": "AND.POM-FRSE-POIR-ABR.16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250391994045",
+    "name": "PAQUITO DES.FRTS PAN. 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250391374083",
+    "name": "PN/PAQ DESS.FRT POMME 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250393095962",
+    "name": "PN/PAQUITO PANACHE SSA 16X100G",
+    "page": 4,
+    "shelf": 7,
+    "position": 5
+  }
 ]

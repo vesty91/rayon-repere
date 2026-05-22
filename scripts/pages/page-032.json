@@ -1,19 +1,142 @@
 [
-  {"ean":"3250392447541","name":"PAT LIEGEOIS VAN/CARA 4X100G","page":32,"shelf":1,"position":31},
-  {"ean":"3250392601960","name":"PAT MOUSSE LIEG VANILLE 4X80G","page":32,"shelf":1,"position":32},
-  {"ean":"3168880755584","name":"B.MAMAN MOUS.CHOCO LAIT 4X50G","page":32,"shelf":1,"position":33},
-  {"ean":"3172900020089","name":"MM MOUSSE CHOCO A L'ANC. 2X100G","page":32,"shelf":1,"position":34},
-  {"ean":"3172900931071","name":"MM MOUSSE CHOCO AU LAIT 2X100G","page":32,"shelf":1,"position":35},
-  {"ean":"3250392447312","name":"PAT LIEGEOIS CAFE 4X100G","page":32,"shelf":2,"position":26},
-  {"ean":"3250392446421","name":"PATURETTE MOUS LIEG CAFE 4X80G","page":32,"shelf":2,"position":27},
-  {"ean":"3279221712011","name":"LAFERM MOUSSE MARRON 2X85G","page":32,"shelf":2,"position":29},
-  {"ean":"3250392070753","name":"CREA MOUS CHOCO UF 2X90G","page":32,"shelf":2,"position":30},
-  {"ean":"3250392447343","name":"PAT LIEGEOIS CHOCO 4X100G","page":32,"shelf":3,"position":21},
-  {"ean":"3250392446889","name":"PAT MOUSSE LIEG CHOCO 4X80G","page":32,"shelf":3,"position":22},
-  {"ean":"3252240013449","name":"LALAITIERE MSSE IRR CH NR4X50G","page":32,"shelf":3,"position":24},
-  {"ean":"3250390916262","name":"PAT MOUSSE CHOCO NOIR 4X60G","page":32,"shelf":3,"position":25},
-  {"ean":"3250392447336","name":"PAT LIEGEOIS CHOCO 12X100G","page":32,"shelf":4,"position":16},
-  {"ean":"3250392437641","name":"PAT MOUS LIEG CHOC 8X80G","page":32,"shelf":4,"position":17},
-  {"ean":"3123290033358","name":"LAITIERE MARONSUIS 4X58,8G","page":32,"shelf":4,"position":18},
-  {"ean":"3123290009858","name":"LAITIERE MOUS CHOCO LT4X59G","page":32,"shelf":4,"position":19}
+  {
+    "ean": "3250393447341",
+    "name": "PAT LIEGEOIS VAN/CARA 4X100G",
+    "page": 32,
+    "shelf": 1,
+    "position": 31
+  },
+  {
+    "ean": "3250392601980",
+    "name": "PAT MOUSSE LIEG.VANILLE 4X80G",
+    "page": 32,
+    "shelf": 1,
+    "position": 32
+  },
+  {
+    "ean": "3608580765684",
+    "name": "B.MAMAN MOUS.CHOCO LAIT 4X50G",
+    "page": 32,
+    "shelf": 1,
+    "position": 33
+  },
+  {
+    "ean": "3372900020059",
+    "name": "MM MOUSSE CHOCO A L'ANC.2X100G",
+    "page": 32,
+    "shelf": 1,
+    "position": 34
+  },
+  {
+    "ean": "3372900901075",
+    "name": "MM MOUSSE CHOCO AU LAIT 2X100G",
+    "page": 32,
+    "shelf": 1,
+    "position": 35
+  },
+  {
+    "ean": "3250393447310",
+    "name": "PAT LIEGEOIS CAFE 4X100G",
+    "page": 32,
+    "shelf": 2,
+    "position": 26
+  },
+  {
+    "ean": "3250390466925",
+    "name": "PATURETTE MOUS LIEG CAFE 4X80G",
+    "page": 32,
+    "shelf": 2,
+    "position": 27
+  },
+  {
+    "ean": "3608580765684",
+    "name": "B.MAMAN MOUS.CHOCO LAIT 4X50G",
+    "page": 32,
+    "shelf": 2,
+    "position": 28
+  },
+  {
+    "ean": "3279231713011",
+    "name": "LAFERM MOUSSE MARRON 2X85G",
+    "page": 32,
+    "shelf": 2,
+    "position": 29
+  },
+  {
+    "ean": "3250392070793",
+    "name": "CREA MOUS CHOCO UF 2X90G",
+    "page": 32,
+    "shelf": 2,
+    "position": 30
+  },
+  {
+    "ean": "3250393447303",
+    "name": "PAT LIEGEOIS CHOCO 4X100G",
+    "page": 32,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3250390466888",
+    "name": "PAT MOUSSE LIEG CHOCO 4X80G",
+    "page": 32,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3608580765684",
+    "name": "B.MAMAN MOUS.CHOCO LAIT 4X50G",
+    "page": 32,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3023290076699",
+    "name": "LALATIERE MSSE IRR CH NR4X50G",
+    "page": 32,
+    "shelf": 3,
+    "position": 24
+  },
+  {
+    "ean": "3250395016262",
+    "name": "PAT MOUSSE CHOCO NOIR 4X60G",
+    "page": 32,
+    "shelf": 3,
+    "position": 25
+  },
+  {
+    "ean": "3250393447334",
+    "name": "PAT LIEGEOIS CHOCO 12X100G",
+    "page": 32,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3250392437640",
+    "name": "PAT MOUS LIEG CHOC 8X80G",
+    "page": 32,
+    "shelf": 4,
+    "position": 17
+  },
+  {
+    "ean": "3023290030356",
+    "name": "LAITIERE MARONSUIS 4X68,8G",
+    "page": 32,
+    "shelf": 4,
+    "position": 18
+  },
+  {
+    "ean": "3023290009055",
+    "name": "LAITIERE MOUS CHOCO LT4X59G",
+    "page": 32,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3250395016262",
+    "name": "PAT MOUSSE CHOCO NOIR 4X60G",
+    "page": 32,
+    "shelf": 4,
+    "position": 20
+  }
 ]

@@ -1,0 +1,37 @@
+[
+  {
+    "ean": "3250391966073",
+    "name": "ME/PAT.RIZ LAIT VANILLE 500G",
+    "page": 31,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250390626992",
+    "name": "PAT RIZ AU LAIT NATURE 200G",
+    "page": 31,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "3250391285006",
+    "name": "PAT CREME CARAMEL 8X100G",
+    "page": 31,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "3023290624265",
+    "name": "LAITIERE CREM.OEUFS VAN.4X100G",
+    "page": 31,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3608580884170",
+    "name": "B.M COEUR COULANT CHOCO 2X80G",
+    "page": 31,
+    "shelf": 7,
+    "position": 7
+  }
+]

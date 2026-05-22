@@ -1,22 +1,142 @@
 [
-  {"ean":"3250391584953","name":"PAT FGE BLC 0% CITRON 4X100G","page":21,"shelf":1,"position":45},
-  {"ean":"3250391422892","name":"HIPRO CITRON 2X160G","page":21,"shelf":1,"position":46},
-  {"ean":"3033491125433","name":"HIPRO BANANE BEUR CACAH2X160G","page":21,"shelf":1,"position":47},
-  {"ean":"3761184160351","name":"BAIKO SKYR FRTS DES BOIS4X100G","page":21,"shelf":1,"position":48},
-  {"ean":"3761184160344","name":"BAIKO SKYR MIEL 4X100G","page":21,"shelf":1,"position":49},
-  {"ean":"3761184160337","name":"BAIKO SKYR NATURE 4X100G","page":21,"shelf":1,"position":50},
-  {"ean":"3033491580348","name":"FJORD LAIT FERMENTE 4X125G","page":21,"shelf":1,"position":51},
-  {"ean":"3250391012871","name":"PAT FGE BLANC 0% 8X100G","page":21,"shelf":2,"position":38},
-  {"ean":"3033491590330","name":"HIPRO SAVEUR COCO 2X160G","page":21,"shelf":2,"position":39},
-  {"ean":"3033491588139","name":"HIPRO VANILLE 2X160G","page":21,"shelf":2,"position":40},
-  {"ean":"3033491588344","name":"SIGGIS FRAMBOISE 2X140G","page":21,"shelf":2,"position":41},
-  {"ean":"3033491584441","name":"SIGGIS SKYR MIEL NOIX 2X140G","page":21,"shelf":2,"position":42},
-  {"ean":"3033491584465","name":"SIGGIS SKYR MUESLI 2X140G","page":21,"shelf":2,"position":43},
-  {"ean":"3033491580355","name":"DANONE FJORD NATURE 8X125G","page":21,"shelf":2,"position":44},
-  {"ean":"3250391012628","name":"PAT NAT YT NAT 0% 12X125G","page":21,"shelf":3,"position":31},
-  {"ean":"3033491536130","name":"HIPRO YRT PROT FRAISE 2X160G","page":21,"shelf":3,"position":32},
-  {"ean":"3033491582953","name":"HIPRO MYRTILLE 2X160G","page":21,"shelf":3,"position":33},
-  {"ean":"3033491536604","name":"SIGGIS VANILLE 2X140G","page":21,"shelf":3,"position":34},
-  {"ean":"3033491536581","name":"SIGGIS MYRTILLE 2X140G","page":21,"shelf":3,"position":35},
-  {"ean":"3033491583578","name":"SIGGIS MANGUE PASSION 2X140G","page":21,"shelf":3,"position":36}
+  {
+    "ean": "3250391684953",
+    "name": "PAT FGE BLC 0% CITRON 4X100G",
+    "page": 21,
+    "shelf": 1,
+    "position": 45
+  },
+  {
+    "ean": "3033491482892",
+    "name": "HIPRO CITRON 2X160G",
+    "page": 21,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3033491724633",
+    "name": "HIPRO BANANE BEUR CACAH2X160G",
+    "page": 21,
+    "shelf": 1,
+    "position": 47
+  },
+  {
+    "ean": "3701184800352",
+    "name": "BAIKO SKYR FRTS DES BOIS4X100G",
+    "page": 21,
+    "shelf": 1,
+    "position": 48
+  },
+  {
+    "ean": "3701184800345",
+    "name": "BAIKO SKYR MIEL 4X100G",
+    "page": 21,
+    "shelf": 1,
+    "position": 49
+  },
+  {
+    "ean": "3701184800338",
+    "name": "BAIKO SKYR NATURE 4X100G",
+    "page": 21,
+    "shelf": 1,
+    "position": 50
+  },
+  {
+    "ean": "3033491580543",
+    "name": "FJORD LAIT FERMENTE 4X125G",
+    "page": 21,
+    "shelf": 1,
+    "position": 51
+  },
+  {
+    "ean": "3250390012474",
+    "name": "PAT FGE BLANC 0%8X100G",
+    "page": 21,
+    "shelf": 2,
+    "position": 38
+  },
+  {
+    "ean": "3033491690334",
+    "name": "HIPRO SAVEUR COCO 2X160G",
+    "page": 21,
+    "shelf": 2,
+    "position": 39
+  },
+  {
+    "ean": "3033491588136",
+    "name": "HIPRO VANILLE 2X160G",
+    "page": 21,
+    "shelf": 2,
+    "position": 40
+  },
+  {
+    "ean": "3023290030547",
+    "name": "SIGGIS FRAMBOISE 2X140G",
+    "page": 21,
+    "shelf": 2,
+    "position": 41
+  },
+  {
+    "ean": "3023290069448",
+    "name": "SIGGIS SKYR MIEL NOIX 2X140G",
+    "page": 21,
+    "shelf": 2,
+    "position": 42
+  },
+  {
+    "ean": "3023290069462",
+    "name": "SIGGI'S SKYR MUESLI 2X140G",
+    "page": 21,
+    "shelf": 2,
+    "position": 43
+  },
+  {
+    "ean": "3033491580536",
+    "name": "DANONE FJORD NATURE 8X125G",
+    "page": 21,
+    "shelf": 2,
+    "position": 44
+  },
+  {
+    "ean": "3250390012467",
+    "name": "PAT NAT. YT NAT 0% 12X125G",
+    "page": 21,
+    "shelf": 3,
+    "position": 31
+  },
+  {
+    "ean": "3033492036131",
+    "name": "HIPRO YRT PROT FRAISE 2X160G",
+    "page": 21,
+    "shelf": 3,
+    "position": 32
+  },
+  {
+    "ean": "3033491482953",
+    "name": "HIPRO MYRTILLE 2X160G",
+    "page": 21,
+    "shelf": 3,
+    "position": 33
+  },
+  {
+    "ean": "3023290030608",
+    "name": "SIGGIS VANILLE 2X140G",
+    "page": 21,
+    "shelf": 3,
+    "position": 34
+  },
+  {
+    "ean": "3023290030585",
+    "name": "SIGGI'S MYRTILLE 2X140G",
+    "page": 21,
+    "shelf": 3,
+    "position": 35
+  },
+  {
+    "ean": "3023290063873",
+    "name": "SIGGI'S MANGUE PASSION 2X140G",
+    "page": 21,
+    "shelf": 3,
+    "position": 36
+  }
 ]

@@ -1,4 +1,16 @@
 [
-  {"ean":"3250392616680","name":"ME/PAT.YRT FRUITS BIO 12X125G","page":8,"shelf":7,"position":6},
-  {"ean":"3250392290873","name":"PAT.SUISS.FRUITS BIO 12X50G","page":8,"shelf":7,"position":7}
+  {
+    "ean": "3250392610685",
+    "name": "ME/PAT.YRT FRUITS BIO 12X125G",
+    "page": 8,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3250392200879",
+    "name": "PAT.SUISS FRUITS BIO 12X50G",
+    "page": 8,
+    "shelf": 7,
+    "position": 7
+  }
 ]

@@ -1,0 +1,142 @@
+[
+  {
+    "ean": "4008400290829",
+    "name": "KINDER PINGUI CHOCOLAT 8X30G",
+    "page": 41,
+    "shelf": 1,
+    "position": 30
+  },
+  {
+    "ean": "3033491579745",
+    "name": "VELOUTE FRUIX FRT JNES 8X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 31
+  },
+  {
+    "ean": "3250392046736",
+    "name": "ME/PAT.YRT ONCT FRT JNE 8X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 32
+  },
+  {
+    "ean": "3250391969098",
+    "name": "ME/PAT.FRUTIMAX FRT JNE 8X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 33
+  },
+  {
+    "ean": "3250391024100",
+    "name": "ME/PAT.FRUTIMAX FRT JNE 4X125G",
+    "page": 41,
+    "shelf": 1,
+    "position": 34
+  },
+  {
+    "ean": "4008400551920",
+    "name": "KINDER MAXI KING 3X35G",
+    "page": 41,
+    "shelf": 2,
+    "position": 24
+  },
+  {
+    "ean": "8000500309469",
+    "name": "KINDER CHOCOFRESH X5 102,5G",
+    "page": 41,
+    "shelf": 2,
+    "position": 25
+  },
+  {
+    "ean": "3033491579769",
+    "name": "DANONE VELOUTE FRUIX RGE8X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 26
+  },
+  {
+    "ean": "3250392046705",
+    "name": "S/PAT YRT ONCT FRTS RGE 8X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 27
+  },
+  {
+    "ean": "3250391969098",
+    "name": "ME/PAT.FRUTIMAX FRT JNE 8X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 28
+  },
+  {
+    "ean": "3250391999484",
+    "name": "PAT FRUTI.YT MYRTILLE 4X125G",
+    "page": 41,
+    "shelf": 2,
+    "position": 29
+  },
+  {
+    "ean": "3023290007310",
+    "name": "NESTL NESQUIK PETIT 6X60G",
+    "page": 41,
+    "shelf": 3,
+    "position": 18
+  },
+  {
+    "ean": "3176572555280",
+    "name": "YOP PT FILOUS CHOCO 6X100G",
+    "page": 41,
+    "shelf": 3,
+    "position": 19
+  },
+  {
+    "ean": "3033491579769",
+    "name": "DANONE VELOUTE FRUIX RGE8X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 20
+  },
+  {
+    "ean": "3250392046705",
+    "name": "S/PAT YRT ONCT FRTS RGE 8X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3250390348160",
+    "name": "PAT FRUTI.YT FRT RGE 8X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3250390172185",
+    "name": "ST:FRUTIMAX FRAISE 4X125G",
+    "page": 41,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3033491208195",
+    "name": "DANONE DANY CHOCOLAT 4X100G",
+    "page": 41,
+    "shelf": 4,
+    "position": 12
+  },
+  {
+    "ean": "3250393414497",
+    "name": "PAT.FLAN CHOCO 4X100G",
+    "page": 41,
+    "shelf": 4,
+    "position": 13
+  },
+  {
+    "ean": "3033491579738",
+    "name": "DANONE VEL.FRUIX FT MIX16X125G",
+    "page": 41,
+    "shelf": 4,
+    "position": 14
+  }
+]

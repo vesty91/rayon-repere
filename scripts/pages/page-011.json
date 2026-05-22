@@ -1,15 +1,100 @@
 [
-  {"ean":"3250392978211","name":"PATURAGES YRT BRAS BREB 4X125G","page":11,"shelf":6,"position":10},
-  {"ean":"3250392427627","name":"PATUR YRT BREBIS NATURE 4X125G","page":11,"shelf":6,"position":11},
-  {"ean":"3250391945993","name":"PAT YT LAIT CHEVR NAT 4X120G","page":11,"shelf":6,"position":12},
-  {"ean":"3250393468094","name":"PAT SPE COCO NAT 4X100G","page":11,"shelf":6,"position":13},
-  {"ean":"3250391996124","name":"PAT YT SOJA FRUI MIXES 8X100G","page":11,"shelf":6,"position":14},
-  {"ean":"3273220083759","name":"SOJASUN MAND.CITR.VERT4X100G","page":11,"shelf":6,"position":15},
-  {"ean":"3280049100512","name":"PT BASQUE YT GREC.BREBIS2X150G","page":11,"shelf":7,"position":1},
-  {"ean":"3250392483791","name":"PATURAGE YALG BREBIS NAT2X150G","page":11,"shelf":7,"position":2},
-  {"ean":"3250392155131","name":"PAT FGE BLC BREBIS 4.5% 400G","page":11,"shelf":7,"position":3},
-  {"ean":"3411188119098","name":"ALPRO PROD.FERM.SOJA COCO500G","page":11,"shelf":7,"position":5},
-  {"ean":"3411188103387","name":"ALPRO PRO.FERM.SOJA VANIL.500G","page":11,"shelf":7,"position":6},
-  {"ean":"3273220081687","name":"SOJASUN NATURE 12X100G","page":11,"shelf":7,"position":7},
-  {"ean":"3273220081017","name":"SOJASUN NATURE 6X100G","page":11,"shelf":7,"position":8}
+  {
+    "ean": "3250392978211",
+    "name": "PATURAGES YRT BRAS BREB 4X125G",
+    "page": 11,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3250392427627",
+    "name": "PATUR YRT BREBIS NATURE 4X125G",
+    "page": 11,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3250391945993",
+    "name": "PAT YT LAIT CHEVR NAT 4X120G",
+    "page": 11,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250393468094",
+    "name": "PAT SPE COCO NAT 4X100G",
+    "page": 11,
+    "shelf": 6,
+    "position": 13
+  },
+  {
+    "ean": "3250391996124",
+    "name": "PAT YT SOJA FRUI MIXES 8X100G",
+    "page": 11,
+    "shelf": 6,
+    "position": 14
+  },
+  {
+    "ean": "3273220083758",
+    "name": "SOJASUN MAND.CITR.VERT4X100G",
+    "page": 11,
+    "shelf": 6,
+    "position": 15
+  },
+  {
+    "ean": "3280249100014",
+    "name": "PT BASQUE YT GREC.BREBIS2X150G",
+    "page": 11,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250392483791",
+    "name": "PATURAGE YALG BREBIS NAT2X150G",
+    "page": 11,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250392335137",
+    "name": "PAT FGE BLC BREBIS 4,5% 400G",
+    "page": 11,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3250391945993",
+    "name": "PAT YT LAIT CHEVR NAT 4X120G",
+    "page": 11,
+    "shelf": 7,
+    "position": 4
+  },
+  {
+    "ean": "5411188119098",
+    "name": "ALPRO PROD.FERM.SOJA COCO500G",
+    "page": 11,
+    "shelf": 7,
+    "position": 5
+  },
+  {
+    "ean": "5411188103387",
+    "name": "ALPRO PRO.FERM.SOJA VANIL.500G",
+    "page": 11,
+    "shelf": 7,
+    "position": 6
+  },
+  {
+    "ean": "3273220081068",
+    "name": "SOJASUN NATURE 12X100G",
+    "page": 11,
+    "shelf": 7,
+    "position": 7
+  },
+  {
+    "ean": "3273220081013",
+    "name": "SOJASUN NATURE 6X100G",
+    "page": 11,
+    "shelf": 7,
+    "position": 8
+  }
 ]

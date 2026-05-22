@@ -1,22 +1,142 @@
 [
-  {"ean":"3772900901617","name":"MM MOELLEUX CHOCO NR 2X120G","page":27,"shelf":1,"position":32},
-  {"ean":"3250391191544","name":"ME/CREA FONDANT CHOCO 2X90G","page":27,"shelf":1,"position":33},
-  {"ean":"3250391532419","name":"CREA TIRAMISU SPECU 2X100G","page":27,"shelf":1,"position":34},
-  {"ean":"3250391775862","name":"PN/PAT.TIRAMISU FRAMBOIS2X100G","page":27,"shelf":1,"position":35},
-  {"ean":"3250391963917","name":"CREA TENTATION CHOCO 110G","page":27,"shelf":1,"position":36},
-  {"ean":"3250391963924","name":"CREA TENTATION CAFE 110G","page":27,"shelf":1,"position":37},
-  {"ean":"3184670008381","name":"RIANS CR BRULEE RHUM 2X100G","page":27,"shelf":2,"position":25},
-  {"ean":"3184670008627","name":"RIANS PAN COTT FTS RGES 2X120G","page":27,"shelf":2,"position":26},
-  {"ean":"3250391530742","name":"CREA PANNA COTTA FRMB. 2X120G","page":27,"shelf":2,"position":27},
-  {"ean":"3250392188077","name":"CREA PAN COTTA MANG PAS 2X120G","page":27,"shelf":2,"position":28},
-  {"ean":"3250392777142","name":"S/CREA TIRAMISU CITRON 2X100G","page":27,"shelf":2,"position":29},
-  {"ean":"3250393489038","name":"CREA TIRAMISU PISTACHE 2X100G","page":27,"shelf":2,"position":30},
-  {"ean":"3250391776630","name":"PAT PANNA COTTA LT CARAM4X90G","page":27,"shelf":2,"position":31},
-  {"ean":"3184670008610","name":"RIANS PAN COTT MANG/PAS 2X120G","page":27,"shelf":3,"position":21},
-  {"ean":"3250391943445","name":"NESTLE CLAFOUTIS CERISES 4X85G","page":27,"shelf":3,"position":22},
-  {"ean":"3250391790704","name":"ME/PAT CLAFOUTIS CERISES 4X85G","page":27,"shelf":3,"position":23},
-  {"ean":"3250390582246","name":"ME/PAT BABA AU RHUM 2X140G","page":27,"shelf":3,"position":24},
-  {"ean":"3168580454763","name":"B.MAMAN BABA AU RHUM 2X140G","page":27,"shelf":4,"position":16},
-  {"ean":"3073290719329","name":"LALAIT.CLAFOUTIS POMME 4X85G","page":27,"shelf":4,"position":17},
-  {"ean":"3073290720813","name":"LAITIER PT CLAFOUTIS ABR4X85G","page":27,"shelf":4,"position":18}
+  {
+    "ean": "3372900901471",
+    "name": "MM MOELLEUX CHOCO NR 2X120G",
+    "page": 27,
+    "shelf": 1,
+    "position": 32
+  },
+  {
+    "ean": "3250391101344",
+    "name": "ME/CREA FONDANT CHOCO 2X90G",
+    "page": 27,
+    "shelf": 1,
+    "position": 33
+  },
+  {
+    "ean": "3250391334919",
+    "name": "CREA TIRAMISU SPECU 2X100G",
+    "page": 27,
+    "shelf": 1,
+    "position": 34
+  },
+  {
+    "ean": "3250391773602",
+    "name": "PN/PAT.TIRAMISU FRAMBOIS2X100G",
+    "page": 27,
+    "shelf": 1,
+    "position": 35
+  },
+  {
+    "ean": "3250391945931",
+    "name": "CREA TENTATION CHOCO 110G",
+    "page": 27,
+    "shelf": 1,
+    "position": 36
+  },
+  {
+    "ean": "3250391945962",
+    "name": "CREA TENTATION CAFE 110G",
+    "page": 27,
+    "shelf": 1,
+    "position": 37
+  },
+  {
+    "ean": "3184670008089",
+    "name": "RIANS CR BRULEE RHUM 2X100G",
+    "page": 27,
+    "shelf": 2,
+    "position": 25
+  },
+  {
+    "ean": "3184670006627",
+    "name": "RIANS PAN COTT FTS RGES 2X120G",
+    "page": 27,
+    "shelf": 2,
+    "position": 26
+  },
+  {
+    "ean": "3250391334742",
+    "name": "CREA PANNA COTTA FRMB. 2X120G",
+    "page": 27,
+    "shelf": 2,
+    "position": 27
+  },
+  {
+    "ean": "3250392888077",
+    "name": "CREA PAN COTTA MANG PAS 2X120G",
+    "page": 27,
+    "shelf": 2,
+    "position": 28
+  },
+  {
+    "ean": "3250392777142",
+    "name": "S/CREA TIRAMISU CITRON 2X100G",
+    "page": 27,
+    "shelf": 2,
+    "position": 29
+  },
+  {
+    "ean": "3250393469008",
+    "name": "CREA TIRAMISU PISTACHE 2X100G",
+    "page": 27,
+    "shelf": 2,
+    "position": 30
+  },
+  {
+    "ean": "3250393176647",
+    "name": "PAT PANNA COTTA LT CARAM4X90G",
+    "page": 27,
+    "shelf": 2,
+    "position": 31
+  },
+  {
+    "ean": "3184670006610",
+    "name": "RIANS PAN COTT MANG/PAS 2X120G",
+    "page": 27,
+    "shelf": 3,
+    "position": 21
+  },
+  {
+    "ean": "3023290643488",
+    "name": "NESTLE CLAFOUTIS CERISES 4X85G",
+    "page": 27,
+    "shelf": 3,
+    "position": 22
+  },
+  {
+    "ean": "3250391790708",
+    "name": "ME/PAT CLAFOUTIS CERISES 4X85G",
+    "page": 27,
+    "shelf": 3,
+    "position": 23
+  },
+  {
+    "ean": "3250390682486",
+    "name": "ME/PAT BABA AU RHUM 2X140G",
+    "page": 27,
+    "shelf": 3,
+    "position": 24
+  },
+  {
+    "ean": "3608580934783",
+    "name": "B.MAMAN BABA AU RHUM 2X140G",
+    "page": 27,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3023290719329",
+    "name": "LALAIT.CLAFOUTIS POMME 4X85G",
+    "page": 27,
+    "shelf": 4,
+    "position": 17
+  },
+  {
+    "ean": "3023290208137",
+    "name": "LAITIER.PT CLAFOUTIS ABR4X85G",
+    "page": 27,
+    "shelf": 4,
+    "position": 18
+  }
 ]

@@ -1,0 +1,142 @@
+[
+  {
+    "ean": "3329770065871",
+    "name": "PERLE LAIT S/LIT FRAMB 4X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 39
+  },
+  {
+    "ean": "3033492039705",
+    "name": "DANONE YALG NAT 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 40
+  },
+  {
+    "ean": "3033492039804",
+    "name": "DANONE YALG VAN 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 41
+  },
+  {
+    "ean": "3033492039798",
+    "name": "DANONE YALG STRACCIA 4X110G",
+    "page": 12,
+    "shelf": 1,
+    "position": 42
+  },
+  {
+    "ean": "3250391821938",
+    "name": "ME/PAT.YRT GREC.PCH/POIR4X150G",
+    "page": 12,
+    "shelf": 1,
+    "position": 43
+  },
+  {
+    "ean": "3250391638246",
+    "name": "ME/PAT YRT GRECQ S/MIEL 4X150G",
+    "page": 12,
+    "shelf": 1,
+    "position": 44
+  },
+  {
+    "ean": "3250390822905",
+    "name": "PAT YRT PT VERRE VAN 4X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 45
+  },
+  {
+    "ean": "3250390822882",
+    "name": "PAT YRT PT VERRE VAN 8X125G",
+    "page": 12,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3329770080126",
+    "name": "ME/YOPL.PERLE LAIT COCO 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 32
+  },
+  {
+    "ean": "3023290083000",
+    "name": "YAOS PANACH. MYRT FRMB 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 33
+  },
+  {
+    "ean": "3023290005576",
+    "name": "YAOS YT GRECQ.S/MYRTILL.4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 34
+  },
+  {
+    "ean": "3250392866501",
+    "name": "PAT YT GREC FRAISE 4X150G",
+    "page": 12,
+    "shelf": 2,
+    "position": 35
+  },
+  {
+    "ean": "3250391261819",
+    "name": "PAT YT GREC MURE/FRAMB 4X150G",
+    "page": 12,
+    "shelf": 2,
+    "position": 36
+  },
+  {
+    "ean": "3250390011989",
+    "name": "PAT YRT PT VERRE CITRON 4X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 37
+  },
+  {
+    "ean": "3250392440978",
+    "name": "PAT YRT PT VERRE PAN 8X125G",
+    "page": 12,
+    "shelf": 2,
+    "position": 38
+  },
+  {
+    "ean": "3023290001950",
+    "name": "YAOS YT GRECQ.S/FRAISES 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3023290002018",
+    "name": "YAOS YT GRECQ. S/PECHE 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3250392402464",
+    "name": "PAT YRT GRECQ COCO 4X150G",
+    "page": 12,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3250392866471",
+    "name": "ME/PAT YRT GRECQ S/VANIL4X150G",
+    "page": 12,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3250390011958",
+    "name": "PAT YRT PT VERRE NAT 4X125G",
+    "page": 12,
+    "shelf": 3,
+    "position": 30
+  }
+]

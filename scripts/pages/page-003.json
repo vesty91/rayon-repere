@@ -1,0 +1,142 @@
+[
+  {
+    "ean": "3297760097020",
+    "name": "C&A SSA P/PECHES 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 34
+  },
+  {
+    "ean": "3297760097969",
+    "name": "C&A SSA P/BANANE VANILLE 4X97G",
+    "page": 3,
+    "shelf": 3,
+    "position": 35
+  },
+  {
+    "ean": "3297760097068",
+    "name": "C&A SSA P/POIRES 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 36
+  },
+  {
+    "ean": "3250392130282",
+    "name": "PAQUITO SSA POMNAT 4X100G",
+    "page": 3,
+    "shelf": 3,
+    "position": 37
+  },
+  {
+    "ean": "3045320017205",
+    "name": "ANDROS POM/PRUNEAUX 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 23
+  },
+  {
+    "ean": "3250391460557",
+    "name": "PAQUITO DES POM/FRA/MYR 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 24
+  },
+  {
+    "ean": "3608580796312",
+    "name": "ANDROS DELICE DE PECH 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 25
+  },
+  {
+    "ean": "3608580796374",
+    "name": "ANDROS MORCEAUX POIRE 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 26
+  },
+  {
+    "ean": "3297760097167",
+    "name": "C&A SSA P/ABRICOTS 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 27
+  },
+  {
+    "ean": "3297760097037",
+    "name": "C&ALICE SSA P/PINEAU 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 28
+  },
+  {
+    "ean": "3250390320739",
+    "name": "PAQUITO SSA POMNAT 4X100G",
+    "page": 3,
+    "shelf": 4,
+    "position": 29
+  },
+  {
+    "ean": "3608580006671",
+    "name": "ANDROS DES FR POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3250390320715",
+    "name": "PAQUITO DES POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3608580796398",
+    "name": "ANDROS DELICE POM/FRAISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3608580796404",
+    "name": "ANDROS DELICE DE CERISE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3608580762294",
+    "name": "ANDROS MORCEAUX RHUBARBE 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 18
+  },
+  {
+    "ean": "3297760097280",
+    "name": "CH. & ALICE POM CERIS SSA 4X97G",
+    "page": 3,
+    "shelf": 5,
+    "position": 19
+  },
+  {
+    "ean": "3297760097990",
+    "name": "C&A SSA P/MYRTILLES 4X97G",
+    "page": 3,
+    "shelf": 5,
+    "position": 20
+  },
+  {
+    "ean": "3297760097051",
+    "name": "C&A SSA P/FRAMBOISES 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 21
+  },
+  {
+    "ean": "3250390320722",
+    "name": "PAQUITO SSA POMME 4X100G",
+    "page": 3,
+    "shelf": 5,
+    "position": 22
+  }
+]

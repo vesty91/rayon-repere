@@ -1,21 +1,142 @@
 [
-  {"ean":"3250391290488","name":"PAT VEG SOJA FRUITS ROUGE 4X100G","page":10,"shelf":3,"position":37},
-  {"ean":"3272220983260","name":"SOJASUN MYRTILLE 4X100G","page":10,"shelf":3,"position":38},
-  {"ean":"3250391101101","name":"P.BASQ.DOUC.BREB.CITRON 4X100G","page":10,"shelf":4,"position":24},
-  {"ean":"3250392267243","name":"PAT YRT BREB SICERLNRE 2X125G","page":10,"shelf":4,"position":25},
-  {"ean":"3250392445804","name":"PAT YRT BREB LIT F.RG2X125G","page":10,"shelf":4,"position":26},
-  {"ean":"3422230016212","name":"SOIG.F BLANC LT CHEVRE 4X100G","page":10,"shelf":4,"position":27},
-  {"ean":"3250392747417","name":"PAT.FOE BLC CHEVRE NAT.4X100G","page":10,"shelf":4,"position":28},
-  {"ean":"3088540009997","name":"AND BRASSE VEGETAL PEC.4X100G","page":10,"shelf":4,"position":29},
-  {"ean":"3088540009911","name":"AND BRASSE VEGETAL FRSE 4X100G","page":10,"shelf":4,"position":30},
-  {"ean":"3250391610369","name":"PAT VEG SOJA NATURE 6X100G","page":10,"shelf":4,"position":31},
-  {"ean":"3272220084103","name":"SOJASUN FRAMBOISE/PAS 4X100G","page":10,"shelf":4,"position":32},
-  {"ean":"3250391101002","name":"PT BASQ.DOUC.BREBIS NAT.4X100G","page":10,"shelf":5,"position":16},
-  {"ean":"3250391602562","name":"PAT YT LT BREB NAT POT 2X125G","page":10,"shelf":5,"position":17},
-  {"ean":"3250392427657","name":"PATUR YRT BREBIS VANILLE 4X125G","page":10,"shelf":5,"position":18},
-  {"ean":"3250392412851","name":"PAT YRT CHEVRE MYRTILLE 4X125G","page":10,"shelf":5,"position":19},
-  {"ean":"3250392379229","name":"PAT YRT CHEVRE VAN 4X125G","page":10,"shelf":5,"position":20},
-  {"ean":"3088540009942","name":"AND BRASSE VEGETAL NAT.4X100G","page":10,"shelf":5,"position":21},
-  {"ean":"3272220982089","name":"SOJASUN ABRICOT/GOYAVE 4X100G","page":10,"shelf":5,"position":23},
-  {"ean":"3250391901000","name":"P.BASQ.YT VEL NAT BREBIS 4X115G","page":10,"shelf":6,"position":9}
+  {
+    "ean": "3250391290468",
+    "name": "PAT VEG SOJA FRUITS ROUG4X100G",
+    "page": 10,
+    "shelf": 3,
+    "position": 37
+  },
+  {
+    "ean": "3273220083260",
+    "name": "SOJASUN MYRTILLE 4X100G",
+    "page": 10,
+    "shelf": 3,
+    "position": 38
+  },
+  {
+    "ean": "3280241101101",
+    "name": "P.BASQ.DOUC.BREB.CITRON 4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 24
+  },
+  {
+    "ean": "3250392287245",
+    "name": "PAT YRT BREB S/CERI.NRE 2X125G",
+    "page": 10,
+    "shelf": 4,
+    "position": 25
+  },
+  {
+    "ean": "3250392445904",
+    "name": "PATUR YRT BREBI LIT F.RG2X125G",
+    "page": 10,
+    "shelf": 4,
+    "position": 26
+  },
+  {
+    "ean": "3523230014212",
+    "name": "SOIG.F.BLANC LT CHEVRE 4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 27
+  },
+  {
+    "ean": "3250392747411",
+    "name": "PAT.FGE BLC CHEVRE NAT.4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 28
+  },
+  {
+    "ean": "3608580890997",
+    "name": "AND.BRASSE VEGETAL PEC.4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 29
+  },
+  {
+    "ean": "3608580890911",
+    "name": "AND.BRASSE VEGETAL FRSE 4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 30
+  },
+  {
+    "ean": "3250391610389",
+    "name": "PAT VEG SOJA NATURE 6X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 31
+  },
+  {
+    "ean": "3273220082188",
+    "name": "SOJASUN FRAMBOISE/PAS 4X100G",
+    "page": 10,
+    "shelf": 4,
+    "position": 32
+  },
+  {
+    "ean": "3280241101002",
+    "name": "PT BASQ.DOUC.BREBIS NAT.4X100G",
+    "page": 10,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3250391402564",
+    "name": "PAT YT LT BREB NAT POT 2X125G",
+    "page": 10,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3250392427658",
+    "name": "PATUR YRT BREBIS VANILLE4X125G",
+    "page": 10,
+    "shelf": 5,
+    "position": 18
+  },
+  {
+    "ean": "3250392612863",
+    "name": "PAT YRT CHEVRE MYRTILLE 4X125G",
+    "page": 10,
+    "shelf": 5,
+    "position": 19
+  },
+  {
+    "ean": "3250392379247",
+    "name": "PAT YRT CHEVRE VAN 4X125G",
+    "page": 10,
+    "shelf": 5,
+    "position": 20
+  },
+  {
+    "ean": "3608580890898",
+    "name": "AND.BRASSE VEGETAL NAT.4X100G",
+    "page": 10,
+    "shelf": 5,
+    "position": 21
+  },
+  {
+    "ean": "3250391610389",
+    "name": "PAT VEG SOJA NATURE 6X100G",
+    "page": 10,
+    "shelf": 5,
+    "position": 22
+  },
+  {
+    "ean": "3273220082089",
+    "name": "SOJASUN ABRICOT/GOYAVE 4X100G",
+    "page": 10,
+    "shelf": 5,
+    "position": 23
+  },
+  {
+    "ean": "3280249901000",
+    "name": "P.BASQ.YT VEL.NAT.BREBIS4X115G",
+    "page": 10,
+    "shelf": 6,
+    "position": 9
+  }
 ]

@@ -1,22 +1,142 @@
 [
-  {"ean":"3250390461772","name":"PAT ONCTUEUX AGRUME 8X125G","page":16,"shelf":4,"position":19},
-  {"ean":"3250390604599","name":"DANONE YT VELOUTE NATUR.8X125G","page":16,"shelf":4,"position":20},
-  {"ean":"3250390402225","name":"PAT.VITA PAUSE STRACCIA 2X150G","page":16,"shelf":4,"position":21},
-  {"ean":"3250390676497","name":"PAT LISSEA MOUSSE NAT 4X100G","page":16,"shelf":4,"position":22},
-  {"ean":"3250392000140","name":"PERLE LAIT VANILLE 4X125G","page":16,"shelf":4,"position":23},
-  {"ean":"3250392049910","name":"PAT YRT ONCT NAT SUCRE 8X125G","page":16,"shelf":5,"position":13},
-  {"ean":"3250390604537","name":"DANONE YAOURT NATURE 16X125G","page":16,"shelf":5,"position":14},
-  {"ean":"3250392282447","name":"PAT VITA PAUSE FRAISE 2X150G","page":16,"shelf":5,"position":15},
-  {"ean":"3250392193330","name":"DAN.GERVITA FRT FRAISE 4X100G","page":16,"shelf":5,"position":16},
-  {"ean":"3250392180110","name":"YOP PERLE NATURE 4X125G","page":16,"shelf":5,"position":17},
-  {"ean":"3250390607255","name":"ME/PAT YRT ONCT NAT 8X125G","page":16,"shelf":6,"position":7},
-  {"ean":"3250390604544","name":"DANONE YAOURT NATURE 16X125G","page":16,"shelf":6,"position":8},
-  {"ean":"3250392287275","name":"PAT VITA PAUSE LEMON 2X150G","page":16,"shelf":6,"position":9},
-  {"ean":"3250392163007","name":"DANONE GERVITA 4X100G","page":16,"shelf":6,"position":10},
-  {"ean":"3250392045462","name":"PERLE LAIT VANILLE 8X125G","page":16,"shelf":6,"position":11},
-  {"ean":"3250392077590","name":"PERLE LAIT PANAC. AROM. 8X125G","page":16,"shelf":6,"position":12},
-  {"ean":"3250390607248","name":"PAT ONCTUEUX NATUR 16X125G","page":16,"shelf":7,"position":1},
-  {"ean":"3250390604575","name":"DANONE VELOUTE NAT 16X125G","page":16,"shelf":7,"position":2},
-  {"ean":"3250392045356","name":"PATURAG.VITA PAUSE PECHE2X150G","page":16,"shelf":7,"position":3},
-  {"ean":"3250392191992","name":"GERVITA NATURE 8X100G","page":16,"shelf":7,"position":4}
+  {
+    "ean": "3250393461774",
+    "name": "PAT ONCTUEUX AGRUME 8X125G",
+    "page": 16,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3033490004590",
+    "name": "DANONE YT VELOUTE NATUR.8X125G",
+    "page": 16,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3250390802020",
+    "name": "PAT.VITA PAUSE STRACCIA 2X150G",
+    "page": 16,
+    "shelf": 4,
+    "position": 21
+  },
+  {
+    "ean": "3250390676997",
+    "name": "PAT LISSEA MOUSSE NAT 4X100G",
+    "page": 16,
+    "shelf": 4,
+    "position": 22
+  },
+  {
+    "ean": "3329770080140",
+    "name": "PERLE LAIT VANILLE 4X125G",
+    "page": 16,
+    "shelf": 4,
+    "position": 23
+  },
+  {
+    "ean": "3250392049911",
+    "name": "PAT YRT ONCT NAT SUCRE 8X125G",
+    "page": 16,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3033490004545",
+    "name": "DANONE YAOURT NATURE 16X125G",
+    "page": 16,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3250392282448",
+    "name": "PAT VITA PAUSE FRAISE 2X150G",
+    "page": 16,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3033490192037",
+    "name": "DAN.GERVITA FRT FRAISE 4X100G",
+    "page": 16,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3329770080119",
+    "name": "YOP PERLE NATURE 4X125G",
+    "page": 16,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3250390007234",
+    "name": "ME/PAT YRT ONCT NAT 8X125G",
+    "page": 16,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3033490004545",
+    "name": "DANONE YAOURT NATURE 16X125G",
+    "page": 16,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3250392287214",
+    "name": "PAT VITA PAUSE LEMON 2X150G",
+    "page": 16,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3033490165000",
+    "name": "DANONE GERVITA 4X100G",
+    "page": 16,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3329770065963",
+    "name": "PERLE LAIT VANILLE 8X125G",
+    "page": 16,
+    "shelf": 6,
+    "position": 11
+  },
+  {
+    "ean": "3329770075092",
+    "name": "PERLE LAIT PANAC. AROM. 8X125G",
+    "page": 16,
+    "shelf": 6,
+    "position": 12
+  },
+  {
+    "ean": "3250390007241",
+    "name": "PAT ONCTUEUX NATUR 16X125G",
+    "page": 16,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3033490004576",
+    "name": "DANONE VELOUTE NAT 16X125G",
+    "page": 16,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3250391245383",
+    "name": "PATURAG.VITA PAUSE PECHE2X150G",
+    "page": 16,
+    "shelf": 7,
+    "position": 3
+  },
+  {
+    "ean": "3033490691899",
+    "name": "GERVITA NATURE 8X100G",
+    "page": 16,
+    "shelf": 7,
+    "position": 4
+  }
 ]

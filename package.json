@@ -10,11 +10,13 @@
     "preview": "vite preview --host",
     "start": "npm run build && vite preview --host",
     "extract-plano": "node scripts/extract-plano.mjs",
-    "catalog": "node scripts/build-catalog.mjs"
+    "catalog:import": "python scripts/import-xlsx-catalog.py",
+    "catalog": "python scripts/import-xlsx-catalog.py && node scripts/build-catalog.mjs"
   },
   "dependencies": {
     "@tensorflow-models/mobilenet": "^2.1.1",
     "@tensorflow/tfjs": "^4.22.0",
+    "@zxing/browser": "^0.2.0",
     "html5-qrcode": "^2.3.8"
   },
   "devDependencies": {

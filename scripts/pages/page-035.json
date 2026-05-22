@@ -1,0 +1,107 @@
+[
+  {
+    "ean": "3023290035689",
+    "name": "LAITIER.POT CREM.CARAMEL 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 13
+  },
+  {
+    "ean": "3250391284979",
+    "name": "PAT PPC CARAMEL 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 14
+  },
+  {
+    "ean": "3250391047635",
+    "name": "PAT PPC COCO 4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 15
+  },
+  {
+    "ean": "3033491377112",
+    "name": "DAN.LIEGEOIS SAV.VANIL.4X100G",
+    "page": 35,
+    "shelf": 4,
+    "position": 16
+  },
+  {
+    "ean": "3023290035801",
+    "name": "LL PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 8
+  },
+  {
+    "ean": "3250390803409",
+    "name": "ME/PAT PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 9
+  },
+  {
+    "ean": "3033491377105",
+    "name": "DANETTE LIEGEOIS CHOCO 4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 10
+  },
+  {
+    "ean": "3023290620144",
+    "name": "VIENNOIS VANIL.S/CAR4X100G",
+    "page": 35,
+    "shelf": 5,
+    "position": 11
+  },
+  {
+    "ean": "3023290035801",
+    "name": "LL PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 4
+  },
+  {
+    "ean": "3250390803409",
+    "name": "ME/PAT PPC CHOCO 4X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 5
+  },
+  {
+    "ean": "3033491377167",
+    "name": "DAN.LIEGEOIS CHOCO-VAN.8X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 6
+  },
+  {
+    "ean": "3023290050408",
+    "name": "NESTL.VIENN.CHOC CAFE 8X100G",
+    "page": 35,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3410280140278",
+    "name": "TOP BUDG CD CHOC/VAN 12X115G",
+    "page": 35,
+    "shelf": 7,
+    "position": 1
+  },
+  {
+    "ean": "3250391254842",
+    "name": "PAT PPC CHOCO 8X100G",
+    "page": 35,
+    "shelf": 7,
+    "position": 2
+  },
+  {
+    "ean": "3033491377150",
+    "name": "DANETTE LIEGEOIS CHOCO 8X100G",
+    "page": 35,
+    "shelf": 7,
+    "position": 3
+  }
+]

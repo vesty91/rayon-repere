@@ -1,0 +1,142 @@
+[
+  {
+    "ean": "3033491325519",
+    "name": "DANONE ACTIVIA MANGUE 4X125G",
+    "page": 25,
+    "shelf": 3,
+    "position": 26
+  },
+  {
+    "ean": "3033491235382",
+    "name": "ACTIVIA CEREALES NOIX 4X120G",
+    "page": 25,
+    "shelf": 3,
+    "position": 27
+  },
+  {
+    "ean": "3033491214509",
+    "name": "ACTIMEL NATURE 0% 8X100G",
+    "page": 25,
+    "shelf": 3,
+    "position": 28
+  },
+  {
+    "ean": "3033490006143",
+    "name": "LIGHT&F.MSE.FRT PEC.FRSE4X115G",
+    "page": 25,
+    "shelf": 3,
+    "position": 29
+  },
+  {
+    "ean": "3033490005986",
+    "name": "LIGHT&FREE FR.BLC VAN. 4X120G",
+    "page": 25,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3033491325694",
+    "name": "DAN.ACTIVIA AB-FR-MA-KI 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 18
+  },
+  {
+    "ean": "3033490545185",
+    "name": "ACTIVIA BIFID.NATURE 0% 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 19
+  },
+  {
+    "ean": "3033491213205",
+    "name": "ACTIMEL NATURE SUCRE 12X100G",
+    "page": 25,
+    "shelf": 4,
+    "position": 20
+  },
+  {
+    "ean": "3033490006099",
+    "name": "LIGHT&FREE FRTS ROUGES 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 21
+  },
+  {
+    "ean": "3250390168997",
+    "name": "PAT YT 0% SAV VANILLE 8X125G",
+    "page": 25,
+    "shelf": 4,
+    "position": 22
+  },
+  {
+    "ean": "3033491325700",
+    "name": "ACT.ANA-RHU-FIG-PRU.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 13
+  },
+  {
+    "ean": "3033490699833",
+    "name": "ACTIVIA BIF.BRASS.NATUR.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 14
+  },
+  {
+    "ean": "3033491213199",
+    "name": "ACTIMEL GOUT FRAISE 12X100G",
+    "page": 25,
+    "shelf": 5,
+    "position": 15
+  },
+  {
+    "ean": "3329770086296",
+    "name": "YOP.PAN 0%MG FRTS ROU.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 16
+  },
+  {
+    "ean": "3250390597360",
+    "name": "ME/PRINT YT BRASSE NAT.8X125G",
+    "page": 25,
+    "shelf": 5,
+    "position": 17
+  },
+  {
+    "ean": "3250390841289",
+    "name": "PAT BIFIDUS NAT 4X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 7
+  },
+  {
+    "ean": "3250391249831",
+    "name": "PAT BIFIDUS VANILLE 12X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 8
+  },
+  {
+    "ean": "3033491350672",
+    "name": "ACTIVIA AROMAT.PANACHE 12X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 9
+  },
+  {
+    "ean": "3033491325236",
+    "name": "ACTIVIA FRTS PANACHES 16X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 10
+  },
+  {
+    "ean": "3329770086289",
+    "name": "YOP.PAN.FRTS JAU.0%MG 8X125G",
+    "page": 25,
+    "shelf": 6,
+    "position": 11
+  }
+]

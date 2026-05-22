@@ -1,0 +1,142 @@
+[
+  {
+    "ean": "3608580006633",
+    "name": "ANDROS DES.FR POM/CHATA.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 46
+  },
+  {
+    "ean": "3250391979882",
+    "name": "PAQUIT.SPEC.FRT POM/CHAA4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 47
+  },
+  {
+    "ean": "3021760980101",
+    "name": "MATERNE COMP.5 FRT ROU.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 48
+  },
+  {
+    "ean": "3021760980118",
+    "name": "MATERNE COMP.5 FRT JAU.4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 49
+  },
+  {
+    "ean": "3297760092148",
+    "name": "C&A COMP MCX P/VAN 4X97G",
+    "page": 2,
+    "shelf": 1,
+    "position": 50
+  },
+  {
+    "ean": "3297760092179",
+    "name": "C&A COMP MCX P/CHATAIGN 4X97G",
+    "page": 2,
+    "shelf": 1,
+    "position": 51
+  },
+  {
+    "ean": "3250390320746",
+    "name": "PN/PAQUITO SSA POM/BAN 4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 52
+  },
+  {
+    "ean": "3250392480950",
+    "name": "PAQUITO SSA POM/ABR 4X100G",
+    "page": 2,
+    "shelf": 1,
+    "position": 53
+  },
+  {
+    "ean": "3608580006640",
+    "name": "ANDROS DES.FRT POM/ABRI.4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 38
+  },
+  {
+    "ean": "3250391994014",
+    "name": "PAQUITO SPEC.FRT POM/ABR4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 39
+  },
+  {
+    "ean": "3608580879152",
+    "name": "ANDROS ONCTUEUX ABRICOT 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 40
+  },
+  {
+    "ean": "3608580161844",
+    "name": "ANDROS PECHE MRCX SSA 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 41
+  },
+  {
+    "ean": "3608580161905",
+    "name": "ANDROS POIRE MRCX SSA 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 42
+  },
+  {
+    "ean": "3297760097327",
+    "name": "C&A SSA POMME PASSION 4X97G",
+    "page": 2,
+    "shelf": 2,
+    "position": 43
+  },
+  {
+    "ean": "3297760097143",
+    "name": "C&A SSA P/MANGUES 4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 44
+  },
+  {
+    "ean": "3250391996063",
+    "name": "PAQUITO SSA POM/POIR 4X100G",
+    "page": 2,
+    "shelf": 2,
+    "position": 45
+  },
+  {
+    "ean": "3608580006657",
+    "name": "ANDROS DESS.FR.POM/POIR.4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 30
+  },
+  {
+    "ean": "3250390402688",
+    "name": "PAQUITO DESS POM/POIRE 4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 31
+  },
+  {
+    "ean": "3608580796350",
+    "name": "ANDROS DELICE D'ABRICOT 4X100G",
+    "page": 2,
+    "shelf": 3,
+    "position": 32
+  },
+  {
+    "ean": "3608580707097",
+    "name": "ANDROS MORCEAUX RHUBARBE 4X100",
+    "page": 2,
+    "shelf": 3,
+    "position": 33
+  }
+]

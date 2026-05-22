@@ -7,13 +7,13 @@ Application mobile (PWA) pour retrouver un produit sur votre plan de rayon, par 
 Les photos `1.jpg` … `48.jpg` (rayon **Ultra Frais — Intermarché**) sont intégrées dans `public/plans/`.  
 Au premier lancement, les **48 pages** sont chargées automatiquement dans l’onglet **Plans**.
 
-Pour indexer les **codes EAN** du tableau en bas de chaque page :
+Pour mettre à jour les **codes EAN et libellés** depuis vos fichiers Excel corrigés (`planogramme_page_N/*.xlsx` à la racine du dossier parent) :
 
 ```bash
-npm run extract-plano
+npm run catalog
 ```
 
-Cela génère `public/catalog.json` (~675 références). L’extraction OCR prend environ 15–30 minutes.
+Cela importe les Excel puis génère `public/catalog.json`.
 
 ## Démarrage
 

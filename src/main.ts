@@ -10,7 +10,11 @@ import {
   saveProduct,
   uid,
 } from "./storage";
-import { startBarcodeScan, stopBarcodeScan } from "./barcode";
+import {
+  detachBarcodeVideo,
+  startBarcodeScan,
+  stopBarcodeScan,
+} from "./barcode";
 import { findInCatalog, loadPlanoCatalog } from "./planoCatalog";
 import { formatLocation, slotToMarker } from "./planoMeta";
 import { planImageSrc, seedBuiltInPlansIfNeeded } from "./seedPlans";
@@ -181,19 +185,21 @@ function renderSearchTab(): string {
           state.searchMode === "barcode"
             ? `<ol class="scan-steps">
                 <li>Autorisez la <strong>caméra</strong> si le téléphone le demande.</li>
-                <li>Placez le <strong>code-barres</strong> (les chiffres sous les barres) dans le cadre.</li>
+                <li>Pointez la <strong>caméra arrière</strong> vers le code-barres (à 15–25 cm, bien éclairé).</li>
                 <li>Le scan est <strong>automatique</strong> — pas besoin d’appuyer sur un bouton.</li>
               </ol>
               ${
                 state.planoCatalog.length > 0
-                  ? `<p class="score">${state.planoCatalog.length} / 675 produits indexés — scannez un EAN du planogramme.</p>`
+                  ? `<p class="score">${state.planoCatalog.length} codes EAN indexés — scannez un code du planogramme.</p>`
                   : `<p class="score">Première fois sur un produit ? Après le scan, touchez <strong>Ajouter ce code-barres</strong> et pointez sa place sur le plan.</p>`
               }`
             : state.products.length === 0
               ? `<p class="empty">Ajoutez des produits dans l’onglet Produits, ou utilisez le scan code-barres.</p>`
               : ""
         }
-        <div id="barcode-reader" class="${state.searchMode === "photo" ? "hidden" : ""}"></div>
+        <div id="barcode-reader" class="${state.searchMode === "photo" ? "hidden" : ""}">
+          <video id="barcode-video" class="video-preview" playsinline muted></video>
+        </div>
         <video id="photo-video" class="video-preview ${state.searchMode === "barcode" ? "hidden" : ""}" playsinline muted></video>
         <div class="btn-row">
           ${
@@ -202,6 +208,13 @@ function renderSearchTab(): string {
                  <button type="button" class="btn btn-secondary" id="btn-pick-photo">Galerie</button>`
               : `<button type="button" class="btn btn-secondary" id="btn-stop-scan">Arrêter le scan</button>`
           }
+        </div>
+        <div class="manual-ean ${state.searchMode === "barcode" ? "" : "hidden"}">
+          <label for="manual-ean-input">Ou saisir le code EAN à la main</label>
+          <div class="manual-ean-row">
+            <input type="text" id="manual-ean-input" inputmode="numeric" pattern="[0-9]*" placeholder="13 chiffres" maxlength="13" autocomplete="off" />
+            <button type="button" class="btn btn-primary" id="btn-manual-ean">OK</button>
+          </div>
         </div>
         <input type="file" accept="image/*" id="search-photo-input" class="hidden" />
       </div>
@@ -357,6 +370,10 @@ function bindEvents() {
 async function cleanupSearch() {
   state.scanLock = false;
   await stopBarcodeScan();
+  const barcodeVideo = document.getElementById(
+    "barcode-video"
+  ) as HTMLVideoElement | null;
+  if (barcodeVideo) detachBarcodeVideo(barcodeVideo);
   stopPhotoStream();
 }
 
@@ -375,10 +392,16 @@ async function bindSearchEvents() {
   });
 
   if (state.searchMode === "barcode") {
-    try {
-      await startBarcodeScan("barcode-reader", async (code) => {
-        if (state.scanLock) return;
-        state.scanLock = true;
+    const video = document.getElementById(
+      "barcode-video"
+    ) as HTMLVideoElement | null;
+    if (!video) return;
+
+    const handleBarcode = async (code: string) => {
+      if (state.scanLock) return;
+      state.scanLock = true;
+      toast(`Code lu : ${code}`);
+      try {
         showLoading("Recherche…");
         const result = await searchByBarcode(code);
         hideLoading();
@@ -387,6 +410,7 @@ async function bindSearchEvents() {
         if (result) {
           box.innerHTML = renderSearchResult(result);
           toast(`Trouvé : ${result.title ?? result.product?.name ?? "produit"}`);
+          if (navigator.vibrate) navigator.vibrate(80);
         } else {
           box.innerHTML = `<div class="card">
             <p class="empty">Code <strong>${escapeHtml(code)}</strong> introuvable.</p>
@@ -402,21 +426,41 @@ async function bindSearchEvents() {
           });
           toast("Code non indexé", "error");
         }
+      } finally {
         setTimeout(() => {
           state.scanLock = false;
-        }, 2000);
+        }, 1500);
+      }
+    };
+
+    document.getElementById("btn-manual-ean")?.addEventListener("click", () => {
+      const raw = (
+        document.getElementById("manual-ean-input") as HTMLInputElement
+      ).value.trim();
+      const code = raw.replace(/\D/g, "");
+      if (code.length < 8) {
+        toast("Code EAN invalide", "error");
+        return;
+      }
+      void handleBarcode(code);
+    });
+
+    try {
+      await startBarcodeScan(video, (code) => {
+        void handleBarcode(code);
       });
     } catch {
       toast("Autorisez la caméra pour scanner", "error");
     }
+
+    document.getElementById("btn-stop-scan")?.addEventListener("click", async () => {
+      await stopBarcodeScan();
+      detachBarcodeVideo(video);
+      toast("Scan arrêté");
+    });
   } else {
     await initPhotoSearch();
   }
-
-  document.getElementById("btn-stop-scan")?.addEventListener("click", async () => {
-    await stopBarcodeScan();
-    toast("Scan arrêté");
-  });
   document.getElementById("btn-capture-photo")?.addEventListener("click", captureAndSearch);
   document.getElementById("btn-pick-photo")?.addEventListener("click", () => {
     document.getElementById("search-photo-input")?.click();
